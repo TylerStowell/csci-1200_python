@@ -1,0 +1,13 @@
+Objective grade: 80
+
+Jeremy Marrazzo: 
+	Concerning: 
+		math -- Current: 81
+	Trouble: 
+		english -- Current: 74
+
+Tabitha Dupps: 
+	Trouble: 
+		english -- Current: 65
+
+Christopher Farness: 

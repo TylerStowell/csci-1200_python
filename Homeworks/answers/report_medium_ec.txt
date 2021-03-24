@@ -1,0 +1,440 @@
+Objective grade: 75
+
+Cesar Alexander:
+	Trouble:
+		visual_art -- Current: 60
+
+Justin Andrews:
+	Trouble:
+		mechanics -- Current: 48
+
+Matthew Baker:
+	Concerning:
+		mechanics -- Current: 77
+	Trouble:
+		electricity&magnetism -- Current: 72
+
+Daniel Banke:
+	Trouble:
+		cultural_studies -- Current: 69
+
+Grayson Baynes:
+	Concerning:
+		visual_art -- Current: 78
+	Trouble:
+		mechanics -- Current: 60
+
+Madelyn Beal:
+	Concerning:
+		visual_art -- Current: 77
+	Trouble:
+		mechanics -- Current: 60
+
+Connor Bench:
+	Trouble:
+		cultural_studies -- Current: 57
+		electricity&magnetism -- Current: 8
+
+Jashae Bergeron:
+	Trouble:
+		visual_art -- Current: 7
+
+Hunter Berry:
+	Trouble:
+		mechanics -- Current: 75
+
+Kurt Bloxham:
+	Concerning:
+		mechanics -- Current: 76
+	Trouble:
+		electricity&magnetism -- Current: 27
+
+Emilee Branch:
+	Trouble:
+		cultural_studies -- Current: 37
+		visual_art -- Current: 57
+		electricity&magnetism -- Current: 43
+
+Justin Brown:
+	Concerning:
+		visual_art -- Current: 77
+	Trouble:
+		mechanics -- Current: 17
+		electricity&magnetism -- Current: 62
+
+Sherman Cabezas:
+	Trouble:
+		cultural_studies -- Current: 28
+
+Ernesto Calamari:
+	Trouble:
+		mechanics -- Current: 72
+
+Justin Call:
+	Trouble:
+		cultural_studies -- Current: 66
+		mechanics -- Current: 64
+
+Mayra Case:
+	Trouble:
+		mechanics -- Current: 71
+
+Rebeca Collins:
+	Trouble:
+		mechanics -- Current: 59
+		electricity&magnetism -- Current: 61
+
+Abbey Colvin:
+	Trouble:
+		electricity&magnetism -- Current: 61
+
+Andrew Corso:
+	Trouble:
+		cultural_studies -- Current: 62
+
+Colter Crawn:
+	Trouble:
+		cultural_studies -- Current: 71
+		visual_art -- Current: 6
+		mechanics -- Current: 71
+
+Christian Dearborn:
+	Concerning:
+		electricity&magnetism -- Current: 76
+
+Beatriz Dellorusso:
+	Trouble:
+		electricity&magnetism -- Current: 70
+
+Austin Dick:
+	Trouble:
+		cultural_studies -- Current: 29
+		mechanics -- Current: 71
+
+Sean Dolan:
+	Trouble:
+		cultural_studies -- Current: 74
+		mechanics -- Current: 61
+
+Ethan Don:
+	Concerning:
+		cultural_studies -- Current: 76
+	Trouble:
+		electricity&magnetism -- Current: 9
+
+Thomas Eshoo:
+	Trouble:
+		cultural_studies -- Current: 58
+		visual_art -- Current: 74
+
+Xavier Faraon:
+	Trouble:
+		visual_art -- Current: 5
+		mechanics -- Current: 73
+		electricity&magnetism -- Current: 26
+
+Delonta Fink:
+	Trouble:
+		electricity&magnetism -- Current: 41
+
+Aaliyah Foster:
+	Concerning:
+		electricity&magnetism -- Current: 76
+	Trouble:
+		visual_art -- Current: 20
+
+Matthew Gallia:
+	Concerning:
+		cultural_studies -- Current: 78
+	Trouble:
+		visual_art -- Current: 72
+
+Rodney Gallimore:
+	Trouble:
+		cultural_studies -- Current: 47
+
+Carson Graybeal:
+	Trouble:
+		visual_art -- Current: 22
+
+Naomi Hackett:
+	Trouble:
+		cultural_studies -- Current: 72
+		visual_art -- Current: 70
+		mechanics -- Current: 43
+
+Isaac Hall:
+	Trouble:
+		mechanics -- Current: 53
+		electricity&magnetism -- Current: 65
+
+Abby Healy:
+	Trouble:
+		cultural_studies -- Current: 73
+		visual_art -- Current: 59
+		electricity&magnetism -- Current: 54
+
+Zachary Hill:
+	Trouble:
+		visual_art -- Current: 71
+		electricity&magnetism -- Current: 75
+
+Joseph Hitch:
+	Trouble:
+		electricity&magnetism -- Current: 1
+
+Hayden Howard:
+	Trouble:
+		visual_art -- Current: 64
+		mechanics -- Current: 59
+		electricity&magnetism -- Current: 73
+
+Cheyanne Huerta:
+	Trouble:
+		cultural_studies -- Current: 67
+		mechanics -- Current: 52
+		electricity&magnetism -- Current: 68
+
+William Hughes:
+	Trouble:
+		cultural_studies -- Current: 74
+
+Hallie Johnson:
+	Trouble:
+		cultural_studies -- Current: 29
+		electricity&magnetism -- Current: 33
+
+Sylvia King:
+	Trouble:
+		mechanics -- Current: 12
+		electricity&magnetism -- Current: 7
+
+Luke Kleis:
+	Trouble:
+		electricity&magnetism -- Current: 56
+
+Tahleah Koss:
+	Trouble:
+		visual_art -- Current: 74
+
+Timothy Latham:
+	Trouble:
+		cultural_studies -- Current: 65
+		electricity&magnetism -- Current: 66
+
+Deontae Lugo:
+	Trouble:
+		electricity&magnetism -- Current: 41
+
+Stormi Magana:
+	Trouble:
+		visual_art -- Current: 62
+
+Jacob Mattia:
+	Trouble:
+		cultural_studies -- Current: 67
+		visual_art -- Current: 65
+
+Leonela Mazur:
+	Trouble:
+		cultural_studies -- Current: 70
+		mechanics -- Current: 62
+
+Santiago Mcgrath:
+	Trouble:
+		cultural_studies -- Current: 71
+
+Aurora Mckeever:
+	Concerning:
+		electricity&magnetism -- Current: 76
+	Trouble:
+		cultural_studies -- Current: 30
+		visual_art -- Current: 65
+		mechanics -- Current: 70
+
+Sarai Meadows:
+	Concerning:
+		cultural_studies -- Current: 77
+	Trouble:
+		visual_art -- Current: 69
+
+Braden Medina:
+	Trouble:
+		mechanics -- Current: 44
+
+Alacia Meehl:
+	Trouble:
+		mechanics -- Current: 57
+
+Lucy Milazzo:
+	Concerning:
+		cultural_studies -- Current: 76
+
+Daniel Miller:
+	Trouble:
+		visual_art -- Current: 72
+		electricity&magnetism -- Current: 54
+
+Jhoan Nicholas:
+	Trouble:
+		cultural_studies -- Current: 31
+		mechanics -- Current: 40
+		electricity&magnetism -- Current: 46
+
+Damien Nichols:
+	Trouble:
+		visual_art -- Current: 75
+		mechanics -- Current: 64
+
+Kyle Nicholson:
+	Trouble:
+		mechanics -- Current: 29
+		electricity&magnetism -- Current: 70
+
+Hector Noguera:
+	Trouble:
+		cultural_studies -- Current: 21
+		electricity&magnetism -- Current: 62
+
+Joseph Obrien:
+	Trouble:
+		visual_art -- Current: 66
+
+Caley Odonnell:
+	Trouble:
+		mechanics -- Current: 66
+		electricity&magnetism -- Current: 73
+
+Rachael Orozco:
+	Trouble:
+		visual_art -- Current: 71
+		electricity&magnetism -- Current: 15
+
+Skylar Pendley:
+	Trouble:
+		cultural_studies -- Current: 63
+		electricity&magnetism -- Current: 71
+
+Isaiah Perry:
+	Trouble:
+		cultural_studies -- Current: 57
+
+Demarius Poplin:
+	Trouble:
+		visual_art -- Current: 63
+		mechanics -- Current: 9
+
+Monica Procell:
+	Concerning:
+		cultural_studies -- Current: 76
+	Trouble:
+		visual_art -- Current: 16
+		mechanics -- Current: 75
+		electricity&magnetism -- Current: 70
+
+Thomas Raub:
+	Trouble:
+		visual_art -- Current: 10
+		electricity&magnetism -- Current: 73
+
+Cassandra Reinhold:
+	Trouble:
+		mechanics -- Current: 53
+
+Luke Rogers:
+	Trouble:
+		cultural_studies -- Current: 64
+		visual_art -- Current: 75
+		mechanics -- Current: 66
+
+Dennis Schnabel:
+	Trouble:
+		mechanics -- Current: 56
+		electricity&magnetism -- Current: 41
+
+Cielo Schoning:
+	Trouble:
+		mechanics -- Current: 23
+
+Eligah Schweitzer:
+	Concerning:
+		cultural_studies -- Current: 77
+	Trouble:
+		visual_art -- Current: 61
+
+John Scott:
+	Trouble:
+		cultural_studies -- Current: 74
+
+Gordon Shafer:
+	Trouble:
+		electricity&magnetism -- Current: 62
+
+Chase Sheridan:
+	Concerning:
+		visual_art -- Current: 76
+	Trouble:
+		mechanics -- Current: 68
+
+Anthony Simpson:
+	Concerning:
+		electricity&magnetism -- Current: 77
+	Trouble:
+		visual_art -- Current: 75
+
+Jazmine Smith:
+	Trouble:
+		cultural_studies -- Current: 72
+		visual_art -- Current: 74
+
+Kenneth Sotelo:
+	Concerning:
+		mechanics -- Current: 78
+
+Mark Stiltner:
+	Trouble:
+		electricity&magnetism -- Current: 58
+
+Jacob Stinson:
+	Trouble:
+		visual_art -- Current: 29
+		electricity&magnetism -- Current: 64
+
+John Storch:
+	Trouble:
+		mechanics -- Current: 26
+		electricity&magnetism -- Current: 45
+
+Jesus Thomas:
+	Trouble:
+		cultural_studies -- Current: 75
+		mechanics -- Current: 62
+		electricity&magnetism -- Current: 70
+
+Angel Thompson:
+	Trouble:
+		cultural_studies -- Current: 72
+
+John Viola:
+	Concerning:
+		visual_art -- Current: 76
+		mechanics -- Current: 77
+	Trouble:
+		cultural_studies -- Current: 61
+
+Dylana Wheaton:
+	Trouble:
+		cultural_studies -- Current: 71
+
+William Wilder:
+	Trouble:
+		visual_art -- Current: 71
+
+Corinne Wolfgram:
+	Trouble:
+		cultural_studies -- Current: 69
+
+Jose Zack:
+	Trouble:
+		visual_art -- Current: 75
+

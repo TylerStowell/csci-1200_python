@@ -1,0 +1,48 @@
+Objective grade: 80
+
+Jeremy Marrazzo: 
+	Concerning: 
+		math -- Current: 81
+	Trouble: 
+		english -- Current: 74
+
+Tabitha Dupps: 
+	Trouble: 
+		english -- Current: 65
+
+Christopher Farness: 
+Zane Langley: 
+	Trouble: 
+		math -- Current: 38
+
+	Trouble: 
+		english -- Current: 77
+
+Bryan Mullen: 
+	Trouble: 
+		math -- Current: 31
+
+Brenden Diehl: 
+	Concerning: 
+		math -- Current: 82
+Carissa Ditusa: 
+	Trouble: 
+		english -- Current: 73
+
+Sadie Zerfoss: 
+	Trouble: 
+		math -- Current: 73
+
+	Trouble: 
+		english -- Current: 35
+
+Jason Turley: 
+	Trouble: 
+		math -- Current: 71
+
+	Trouble: 
+		english -- Current: 66
+
+Kaitlin Hitson: 
+	Concerning: 
+		math -- Current: 83

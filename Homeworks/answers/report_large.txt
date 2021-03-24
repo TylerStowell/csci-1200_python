@@ -1,0 +1,5818 @@
+Objective grade: 78
+
+Cameron Stewart:
+	Concerning:
+		archery -- Current: 81
+		drama -- Current: 81
+
+David Crowe:
+	Trouble:
+		archery -- Current: 38
+		journalism -- Current: 61
+		biochem -- Current: 66
+
+Cameron Grant:
+	Trouble:
+		drama -- Current: 40
+		biochem -- Current: 78
+
+Naomi Rose:
+	Trouble:
+		journalism -- Current: 68
+		calculus -- Current: 77
+
+Marcus Dutton:
+	Concerning:
+		journalism -- Current: 81
+
+Zachary Dubose:
+	Trouble:
+		drama -- Current: 71
+
+Laquanda Saunders:
+	Trouble:
+		calculus -- Current: 74
+		drama -- Current: 70
+
+Kaelyn Lopez:
+	Concerning:
+		archery -- Current: 81
+	Trouble:
+		journalism -- Current: 63
+		biochem -- Current: 65
+
+Braiden Rice:
+	Concerning:
+		biochem -- Current: 80
+
+Quenton Hoose:
+	Trouble:
+		archery -- Current: 53
+		calculus -- Current: 67
+
+Donald Coppersmith:
+	Trouble:
+		archery -- Current: 46
+		drama -- Current: 71
+
+Alexander Wimberly:
+	Trouble:
+		archery -- Current: 71
+		calculus -- Current: 13
+		biochem -- Current: 45
+
+Colton Durante:
+	Trouble:
+		archery -- Current: 74
+		calculus -- Current: 65
+		drama -- Current: 38
+		biochem -- Current: 72
+
+Nathaniel Booker:
+	Trouble:
+		calculus -- Current: 74
+		biochem -- Current: 70
+
+Andrew Davis:
+	Trouble:
+		journalism -- Current: 67
+		drama -- Current: 78
+
+Dalton Toomey:
+	Trouble:
+		journalism -- Current: 73
+		calculus -- Current: 69
+		biochem -- Current: 60
+
+Jeremiah Palton:
+	Concerning:
+		journalism -- Current: 80
+	Trouble:
+		drama -- Current: 78
+		biochem -- Current: 73
+
+Timothy Messick:
+	Trouble:
+		archery -- Current: 61
+		journalism -- Current: 4
+		drama -- Current: 61
+		biochem -- Current: 36
+
+Dajuana Miller:
+	Concerning:
+		drama -- Current: 79
+		biochem -- Current: 81
+	Trouble:
+		archery -- Current: 67
+
+Tyler Herring:
+	Concerning:
+		archery -- Current: 81
+		biochem -- Current: 81
+	Trouble:
+		journalism -- Current: 65
+		calculus -- Current: 71
+		drama -- Current: 46
+
+Jordan Isom:
+	Trouble:
+		archery -- Current: 78
+		journalism -- Current: 44
+		drama -- Current: 71
+		biochem -- Current: 40
+
+Jimmy Barrett:
+	Trouble:
+		calculus -- Current: 23
+		drama -- Current: 59
+
+Lydia Burich:
+	Trouble:
+		calculus -- Current: 64
+		drama -- Current: 77
+		biochem -- Current: 63
+
+Bradley Coggins:
+	Trouble:
+		archery -- Current: 27
+		journalism -- Current: 70
+		drama -- Current: 76
+
+Keoni Ware:
+	Concerning:
+		archery -- Current: 79
+	Trouble:
+		journalism -- Current: 68
+		calculus -- Current: 59
+		drama -- Current: 60
+
+Damian Carrasco:
+	Concerning:
+		archery -- Current: 81
+		calculus -- Current: 81
+		drama -- Current: 80
+	Trouble:
+		journalism -- Current: 25
+
+Jeriah Thornburgh:
+	Concerning:
+		biochem -- Current: 80
+	Trouble:
+		archery -- Current: 71
+
+Adriel Govan:
+	Trouble:
+		archery -- Current: 68
+
+Joseph Griffith:
+	Trouble:
+		archery -- Current: 3
+		calculus -- Current: 54
+		drama -- Current: 55
+
+Jonathan Hurtado:
+	Trouble:
+		calculus -- Current: 71
+		drama -- Current: 68
+		biochem -- Current: 38
+
+Erik Beston:
+	Concerning:
+		journalism -- Current: 79
+	Trouble:
+		calculus -- Current: 68
+		drama -- Current: 50
+
+Stephen Thorpe:
+	Trouble:
+		calculus -- Current: 72
+		biochem -- Current: 39
+
+Andrew Moore:
+	Trouble:
+		journalism -- Current: 43
+		drama -- Current: 62
+
+Amelia Snow:
+	Trouble:
+		journalism -- Current: 20
+		calculus -- Current: 29
+
+David Cobo:
+	Concerning:
+		journalism -- Current: 81
+
+James Rizek:
+	Trouble:
+		journalism -- Current: 56
+		biochem -- Current: 34
+
+Sawyer Hite:
+	Trouble:
+		calculus -- Current: 74
+
+Cassidi Blahnik:
+	Trouble:
+		archery -- Current: 71
+		journalism -- Current: 56
+
+Abbey Alexander:
+	Concerning:
+		calculus -- Current: 79
+	Trouble:
+		drama -- Current: 73
+
+Meagan Sloan:
+	Concerning:
+		journalism -- Current: 81
+	Trouble:
+		archery -- Current: 36
+		drama -- Current: 76
+
+Francisca Hunt:
+	Trouble:
+		archery -- Current: 63
+		calculus -- Current: 71
+
+Curtis Wilkin:
+	Trouble:
+		journalism -- Current: 73
+		calculus -- Current: 65
+
+Trevor Ritchey:
+	Trouble:
+		archery -- Current: 62
+		journalism -- Current: 52
+		calculus -- Current: 66
+		drama -- Current: 71
+
+Jared Rush:
+	Concerning:
+		journalism -- Current: 79
+
+David Kelly:
+	Concerning:
+		drama -- Current: 79
+	Trouble:
+		calculus -- Current: 34
+		biochem -- Current: 70
+
+Michael Davis:
+	Concerning:
+		archery -- Current: 80
+		journalism -- Current: 79
+	Trouble:
+		calculus -- Current: 58
+		biochem -- Current: 67
+
+Ashton Aguirre:
+	Concerning:
+		archery -- Current: 79
+	Trouble:
+		journalism -- Current: 77
+		drama -- Current: 20
+		biochem -- Current: 78
+
+Jack Abernethy:
+	Trouble:
+		calculus -- Current: 68
+
+Cooper Willard:
+	Concerning:
+		journalism -- Current: 81
+	Trouble:
+		calculus -- Current: 70
+
+Trevor Ross:
+	Concerning:
+		journalism -- Current: 81
+	Trouble:
+		biochem -- Current: 72
+
+Ericka Jones:
+	Trouble:
+		calculus -- Current: 16
+		biochem -- Current: 78
+
+Manuel Jarratt:
+	Trouble:
+		archery -- Current: 77
+		calculus -- Current: 42
+
+Benjamin Hill:
+	Trouble:
+		calculus -- Current: 77
+		drama -- Current: 33
+
+Kyle Spoon:
+	Trouble:
+		archery -- Current: 65
+		calculus -- Current: 69
+		drama -- Current: 64
+		biochem -- Current: 51
+
+Harley Spear:
+	Trouble:
+		drama -- Current: 51
+
+Timothy Herzig:
+	Trouble:
+		calculus -- Current: 47
+		drama -- Current: 69
+		biochem -- Current: 71
+
+Haden Goodson:
+	Concerning:
+		archery -- Current: 79
+		drama -- Current: 81
+	Trouble:
+		journalism -- Current: 77
+		calculus -- Current: 77
+
+Nicholas Johnson:
+	Concerning:
+		biochem -- Current: 81
+	Trouble:
+		archery -- Current: 78
+		journalism -- Current: 64
+		drama -- Current: 16
+
+Lucas Reinertson:
+	Trouble:
+		journalism -- Current: 76
+		drama -- Current: 13
+
+Mikel Parks:
+	Trouble:
+		archery -- Current: 71
+		journalism -- Current: 78
+		drama -- Current: 74
+
+Andrew Bledsoe:
+	Trouble:
+		drama -- Current: 76
+		biochem -- Current: 41
+
+Quentin Kennedy:
+	Trouble:
+		journalism -- Current: 72
+		calculus -- Current: 76
+		drama -- Current: 19
+
+Michael Immerman:
+	Trouble:
+		archery -- Current: 57
+		journalism -- Current: 32
+
+Nasia Hernandez:
+	Trouble:
+		calculus -- Current: 78
+		biochem -- Current: 23
+
+Briseida Storey:
+	Trouble:
+		journalism -- Current: 16
+		biochem -- Current: 48
+
+Nicholas Fite:
+	Trouble:
+		drama -- Current: 77
+		biochem -- Current: 74
+
+Clayton Taylor:
+	Concerning:
+		drama -- Current: 79
+	Trouble:
+		archery -- Current: 63
+		calculus -- Current: 52
+
+Jesse Giuliano:
+	Trouble:
+		drama -- Current: 40
+
+Patrick Askelson:
+	Trouble:
+		archery -- Current: 42
+
+Nicholas Howard:
+	Trouble:
+		archery -- Current: 75
+		journalism -- Current: 43
+		calculus -- Current: 25
+		drama -- Current: 68
+
+Corey Gonzalez:
+	Trouble:
+		archery -- Current: 64
+		journalism -- Current: 70
+		drama -- Current: 74
+
+Tyler Mattos:
+	Concerning:
+		journalism -- Current: 80
+	Trouble:
+		calculus -- Current: 73
+		drama -- Current: 8
+
+Hayden Hardy:
+	Trouble:
+		journalism -- Current: 56
+		calculus -- Current: 75
+
+Matthew Spencley:
+	Trouble:
+		journalism -- Current: 44
+		calculus -- Current: 72
+
+Priscilla Dominguez:
+	Concerning:
+		journalism -- Current: 79
+	Trouble:
+		drama -- Current: 76
+
+Ann Bruder:
+	Trouble:
+		journalism -- Current: 69
+		calculus -- Current: 76
+		biochem -- Current: 70
+
+Daevon Franssen:
+	Trouble:
+		calculus -- Current: 66
+		drama -- Current: 73
+		biochem -- Current: 66
+
+David Rossi:
+	Concerning:
+		archery -- Current: 81
+	Trouble:
+		journalism -- Current: 75
+
+Yasmine Dejesus:
+	Trouble:
+		archery -- Current: 46
+		calculus -- Current: 74
+
+Mariel Werren:
+	Trouble:
+		archery -- Current: 37
+		journalism -- Current: 32
+		drama -- Current: 69
+		biochem -- Current: 76
+
+Austin Coleman:
+	Trouble:
+		journalism -- Current: 59
+
+Leon Blackburn:
+	Trouble:
+		archery -- Current: 70
+
+Jeremy Griggs:
+	Trouble:
+		archery -- Current: 41
+		drama -- Current: 68
+
+Carlos Garrow:
+	Concerning:
+		drama -- Current: 80
+	Trouble:
+		archery -- Current: 75
+		biochem -- Current: 63
+
+Shyanne Wells:
+	Trouble:
+		archery -- Current: 55
+		calculus -- Current: 77
+		drama -- Current: 53
+
+Logan Nelson:
+	Trouble:
+		archery -- Current: 61
+		calculus -- Current: 72
+		drama -- Current: 75
+
+Logun Gamble:
+	Trouble:
+		archery -- Current: 69
+		drama -- Current: 67
+
+Michael Emerson:
+	Trouble:
+		calculus -- Current: 60
+		biochem -- Current: 21
+
+Titus Holton:
+	Trouble:
+		journalism -- Current: 19
+		biochem -- Current: 1
+
+Zachary Stutler:
+	Trouble:
+		journalism -- Current: 32
+		biochem -- Current: 71
+
+Timothy Glawe:
+	Concerning:
+		archery -- Current: 80
+	Trouble:
+		calculus -- Current: 72
+		biochem -- Current: 59
+
+April Johnson:
+	Trouble:
+		archery -- Current: 54
+		calculus -- Current: 43
+		drama -- Current: 74
+		biochem -- Current: 63
+
+Geraldo Lobdell:
+	Trouble:
+		calculus -- Current: 60
+		drama -- Current: 45
+		biochem -- Current: 16
+
+Yamile Gregg:
+	Concerning:
+		journalism -- Current: 80
+	Trouble:
+		biochem -- Current: 19
+
+Cole Vice:
+	Trouble:
+		archery -- Current: 71
+		drama -- Current: 51
+
+Elijah Caldwell:
+	Trouble:
+		archery -- Current: 78
+		biochem -- Current: 52
+
+Brian Wood:
+	Trouble:
+		archery -- Current: 24
+		journalism -- Current: 42
+		biochem -- Current: 60
+
+Shawnte Williams:
+	Concerning:
+		calculus -- Current: 80
+	Trouble:
+		journalism -- Current: 63
+		drama -- Current: 76
+
+Thomas Radford:
+	Trouble:
+		archery -- Current: 71
+		journalism -- Current: 12
+
+Michaela Lauzon:
+	Trouble:
+		calculus -- Current: 36
+		drama -- Current: 56
+
+Ricardo Langston:
+	Trouble:
+		journalism -- Current: 72
+		drama -- Current: 77
+		biochem -- Current: 67
+
+Dakota Lawrence:
+	Trouble:
+		journalism -- Current: 71
+		drama -- Current: 75
+		biochem -- Current: 55
+
+Dominic Rendleman:
+	Trouble:
+		journalism -- Current: 59
+		biochem -- Current: 74
+
+Ethan Gonzales:
+	Concerning:
+		drama -- Current: 81
+	Trouble:
+		archery -- Current: 25
+		journalism -- Current: 71
+		calculus -- Current: 76
+		biochem -- Current: 53
+
+Javier Morrison:
+	Trouble:
+		calculus -- Current: 62
+		biochem -- Current: 61
+
+Jordan Thomas:
+	Concerning:
+		archery -- Current: 80
+
+Jaylen Butts:
+	Concerning:
+		biochem -- Current: 80
+	Trouble:
+		archery -- Current: 65
+		journalism -- Current: 29
+		drama -- Current: 71
+
+Micah Boyle:
+	Trouble:
+		archery -- Current: 23
+		journalism -- Current: 72
+		calculus -- Current: 71
+		drama -- Current: 73
+		biochem -- Current: 55
+
+James Richards:
+	Trouble:
+		archery -- Current: 60
+		calculus -- Current: 53
+		drama -- Current: 11
+
+Levi Taft:
+	Trouble:
+		journalism -- Current: 45
+		calculus -- Current: 78
+
+Anthony Leyerle:
+	Concerning:
+		biochem -- Current: 81
+	Trouble:
+		archery -- Current: 65
+
+David Pierman:
+	Trouble:
+		archery -- Current: 70
+		biochem -- Current: 68
+
+David Pinkston:
+	Trouble:
+		archery -- Current: 71
+		journalism -- Current: 76
+
+Sebastian Berndt:
+	Trouble:
+		archery -- Current: 55
+		journalism -- Current: 54
+		calculus -- Current: 73
+		drama -- Current: 26
+
+Clayton Baines:
+	Concerning:
+		calculus -- Current: 81
+	Trouble:
+		journalism -- Current: 27
+		drama -- Current: 65
+		biochem -- Current: 65
+
+Jaidan Anson:
+	Trouble:
+		archery -- Current: 71
+		calculus -- Current: 76
+		biochem -- Current: 75
+
+Raquel Jackman:
+	Trouble:
+		drama -- Current: 66
+
+William Folz:
+	Trouble:
+		archery -- Current: 40
+		journalism -- Current: 65
+		calculus -- Current: 64
+		drama -- Current: 77
+
+Jackson Turner:
+	Trouble:
+		drama -- Current: 47
+
+Alexander Wakefield:
+	Trouble:
+		archery -- Current: 52
+		journalism -- Current: 71
+		calculus -- Current: 77
+		drama -- Current: 76
+
+Wesley Vanderhyde:
+	Concerning:
+		journalism -- Current: 81
+		biochem -- Current: 80
+	Trouble:
+		archery -- Current: 20
+		drama -- Current: 3
+
+Rana Ritter:
+	Concerning:
+		biochem -- Current: 81
+	Trouble:
+		journalism -- Current: 76
+		calculus -- Current: 29
+		drama -- Current: 77
+
+Philip Tibbetts:
+	Trouble:
+		journalism -- Current: 61
+		drama -- Current: 67
+
+Brian Williams:
+	Concerning:
+		journalism -- Current: 79
+	Trouble:
+		archery -- Current: 74
+		drama -- Current: 68
+		biochem -- Current: 19
+
+Enrique Somberg:
+	Concerning:
+		drama -- Current: 81
+	Trouble:
+		archery -- Current: 71
+		journalism -- Current: 50
+		calculus -- Current: 72
+
+Timothy Schartiger:
+	Trouble:
+		archery -- Current: 75
+		drama -- Current: 78
+		biochem -- Current: 76
+
+Travis Wilson:
+	Concerning:
+		calculus -- Current: 79
+	Trouble:
+		biochem -- Current: 67
+
+Gabriel Aguirre:
+	Concerning:
+		drama -- Current: 80
+	Trouble:
+		journalism -- Current: 73
+
+Crystal Fulton:
+	Trouble:
+		journalism -- Current: 64
+
+Destiney Hunter:
+	Trouble:
+		archery -- Current: 10
+
+Brian Daugherty:
+	Trouble:
+		journalism -- Current: 54
+		calculus -- Current: 58
+		drama -- Current: 45
+		biochem -- Current: 75
+
+Trevor Johnson:
+	Trouble:
+		archery -- Current: 60
+		journalism -- Current: 78
+		calculus -- Current: 73
+		drama -- Current: 35
+		biochem -- Current: 74
+
+Collin Tanen:
+	Trouble:
+		calculus -- Current: 52
+
+Gabriel Sadley:
+	Concerning:
+		calculus -- Current: 79
+	Trouble:
+		archery -- Current: 53
+		journalism -- Current: 68
+		drama -- Current: 44
+		biochem -- Current: 77
+
+Alec Sindler:
+	Concerning:
+		drama -- Current: 81
+	Trouble:
+		archery -- Current: 52
+		journalism -- Current: 72
+		calculus -- Current: 47
+		biochem -- Current: 71
+
+Carson Smith:
+	Trouble:
+		calculus -- Current: 71
+		biochem -- Current: 73
+
+Madelyn Yeatts:
+	Trouble:
+		archery -- Current: 50
+		journalism -- Current: 74
+		biochem -- Current: 50
+
+Sabastian Mackay:
+	Trouble:
+		calculus -- Current: 10
+
+Christian Coxwell:
+	Concerning:
+		calculus -- Current: 79
+		biochem -- Current: 81
+	Trouble:
+		drama -- Current: 73
+
+Baron Saunders:
+	Trouble:
+		journalism -- Current: 72
+		calculus -- Current: 75
+
+Ethan Langston:
+	Concerning:
+		journalism -- Current: 81
+	Trouble:
+		drama -- Current: 67
+
+Safwan Martina:
+	Trouble:
+		biochem -- Current: 74
+
+Jacob Vo:
+	Trouble:
+		archery -- Current: 17
+		biochem -- Current: 39
+
+Kierra Cooper:
+	Trouble:
+		calculus -- Current: 58
+
+Timothy Wright:
+	Trouble:
+		drama -- Current: 66
+
+Colman Davies:
+	Trouble:
+		journalism -- Current: 69
+
+Jorge Turner:
+	Trouble:
+		journalism -- Current: 76
+		calculus -- Current: 77
+
+Kacie Stamp:
+	Trouble:
+		journalism -- Current: 33
+		biochem -- Current: 74
+
+Carla Downs:
+	Trouble:
+		calculus -- Current: 67
+		drama -- Current: 65
+
+Joseph Villegas:
+	Trouble:
+		journalism -- Current: 72
+		calculus -- Current: 73
+		drama -- Current: 27
+
+Ricky Artale:
+	Trouble:
+		archery -- Current: 68
+		calculus -- Current: 71
+		biochem -- Current: 56
+
+Thanh Alexander:
+	Trouble:
+		archery -- Current: 76
+		journalism -- Current: 72
+		calculus -- Current: 73
+		biochem -- Current: 73
+
+April Padovani:
+	Concerning:
+		journalism -- Current: 81
+	Trouble:
+		calculus -- Current: 72
+		drama -- Current: 56
+		biochem -- Current: 76
+
+Anas Zamarripa:
+	Concerning:
+		journalism -- Current: 81
+	Trouble:
+		drama -- Current: 55
+		biochem -- Current: 78
+
+Mark Mendosa:
+	Concerning:
+		archery -- Current: 81
+	Trouble:
+		journalism -- Current: 28
+		calculus -- Current: 74
+		biochem -- Current: 25
+
+Haylee Allen:
+	Concerning:
+		calculus -- Current: 81
+	Trouble:
+		archery -- Current: 13
+		drama -- Current: 76
+		biochem -- Current: 69
+
+Jonathan Smith:
+	Trouble:
+		journalism -- Current: 74
+		biochem -- Current: 75
+
+Hunter Simons:
+	Trouble:
+		journalism -- Current: 47
+		calculus -- Current: 28
+		biochem -- Current: 73
+
+Joseph Mays:
+	Trouble:
+		calculus -- Current: 56
+
+Cameron Paine:
+	Trouble:
+		archery -- Current: 47
+		journalism -- Current: 73
+		calculus -- Current: 58
+		drama -- Current: 75
+
+Jake Hershberger:
+	Trouble:
+		archery -- Current: 77
+		calculus -- Current: 64
+		biochem -- Current: 65
+
+Harley Kilpatrick:
+	Concerning:
+		calculus -- Current: 81
+	Trouble:
+		journalism -- Current: 76
+		drama -- Current: 73
+
+Jaela Harris:
+	Trouble:
+		archery -- Current: 63
+		drama -- Current: 59
+		biochem -- Current: 72
+
+Britney Angel:
+	Trouble:
+		archery -- Current: 20
+		drama -- Current: 52
+
+Lawrence Haines:
+	Concerning:
+		drama -- Current: 81
+	Trouble:
+		archery -- Current: 60
+		journalism -- Current: 54
+		biochem -- Current: 30
+
+Amilia Reinke:
+	Trouble:
+		archery -- Current: 64
+		drama -- Current: 78
+		biochem -- Current: 16
+
+Jamere Cebreros:
+	Trouble:
+		archery -- Current: 55
+		drama -- Current: 78
+
+Javier Sanders:
+	Trouble:
+		calculus -- Current: 70
+		biochem -- Current: 60
+
+Mikaela Romero:
+	Trouble:
+		archery -- Current: 72
+		calculus -- Current: 23
+		biochem -- Current: 66
+
+Jason Kaplan:
+	Trouble:
+		drama -- Current: 3
+
+Bronwyn Roberts:
+	Trouble:
+		biochem -- Current: 59
+
+Meaghan Tackett:
+	Concerning:
+		archery -- Current: 79
+	Trouble:
+		journalism -- Current: 44
+		calculus -- Current: 78
+
+Spurgeon Uttecht:
+	Trouble:
+		archery -- Current: 7
+
+Deontae Leggio:
+	Concerning:
+		journalism -- Current: 79
+		biochem -- Current: 79
+	Trouble:
+		archery -- Current: 72
+
+Dylan Sandy:
+	Concerning:
+		calculus -- Current: 80
+		biochem -- Current: 81
+	Trouble:
+		drama -- Current: 62
+
+Oneil Heiser:
+	Trouble:
+		archery -- Current: 46
+		drama -- Current: 72
+		biochem -- Current: 78
+
+Hunter Johnson:
+	Trouble:
+		archery -- Current: 0
+		journalism -- Current: 67
+		drama -- Current: 69
+		biochem -- Current: 76
+
+Dominick Dugdale:
+	Concerning:
+		calculus -- Current: 80
+	Trouble:
+		archery -- Current: 27
+		journalism -- Current: 76
+		biochem -- Current: 77
+
+Katyana Shea:
+	Concerning:
+		drama -- Current: 80
+	Trouble:
+		calculus -- Current: 72
+
+Sharita Feenan:
+	Trouble:
+		archery -- Current: 73
+		calculus -- Current: 70
+		drama -- Current: 26
+		biochem -- Current: 24
+
+Katiana Navarro:
+	Trouble:
+		calculus -- Current: 69
+
+Daniel Walker:
+	Trouble:
+		archery -- Current: 47
+		calculus -- Current: 65
+		biochem -- Current: 73
+
+Sommer Brown:
+	Trouble:
+		journalism -- Current: 64
+		calculus -- Current: 68
+
+Tiara Parker:
+	Trouble:
+		archery -- Current: 63
+		journalism -- Current: 67
+		calculus -- Current: 77
+		drama -- Current: 53
+
+Brayden Abundo:
+	Concerning:
+		biochem -- Current: 79
+	Trouble:
+		archery -- Current: 72
+		calculus -- Current: 76
+
+Zachary Frank:
+	Trouble:
+		archery -- Current: 72
+		journalism -- Current: 15
+		calculus -- Current: 5
+		drama -- Current: 76
+		biochem -- Current: 72
+
+Ava Kearney:
+	Trouble:
+		journalism -- Current: 69
+
+Sadie Amerson:
+	Concerning:
+		archery -- Current: 80
+	Trouble:
+		calculus -- Current: 76
+		drama -- Current: 76
+		biochem -- Current: 76
+
+Nash Lindroos:
+	Trouble:
+		archery -- Current: 77
+		journalism -- Current: 78
+
+Joseph Emmerich:
+	Concerning:
+		drama -- Current: 80
+
+Michael Gomer:
+	Trouble:
+		archery -- Current: 49
+		journalism -- Current: 21
+
+Jovan Depalma:
+	Concerning:
+		archery -- Current: 81
+	Trouble:
+		calculus -- Current: 77
+		drama -- Current: 65
+
+Carlos Santella:
+	Trouble:
+		calculus -- Current: 74
+
+Jaime Preuss:
+	Trouble:
+		journalism -- Current: 3
+		calculus -- Current: 69
+		drama -- Current: 22
+
+Nash Thomas:
+	Trouble:
+		journalism -- Current: 74
+		biochem -- Current: 47
+
+Stefanie Martinez:
+	Trouble:
+		journalism -- Current: 75
+		calculus -- Current: 35
+
+Chase Marcus:
+	Trouble:
+		archery -- Current: 36
+
+Jorge Bouie:
+	Trouble:
+		calculus -- Current: 70
+		drama -- Current: 69
+
+Demi Figueroa:
+	Concerning:
+		journalism -- Current: 79
+	Trouble:
+		archery -- Current: 78
+		biochem -- Current: 78
+
+Ian Dubose:
+	Trouble:
+		calculus -- Current: 50
+		drama -- Current: 74
+		biochem -- Current: 66
+
+Alejandro Collins:
+	Concerning:
+		biochem -- Current: 80
+
+Louis Baragan:
+	Trouble:
+		archery -- Current: 58
+		journalism -- Current: 19
+		drama -- Current: 75
+		biochem -- Current: 76
+
+Bradley Murray:
+	Trouble:
+		calculus -- Current: 50
+
+Nicholas Cox:
+	Trouble:
+		calculus -- Current: 74
+
+Jaimee Rodriguez:
+	Trouble:
+		journalism -- Current: 66
+		calculus -- Current: 77
+		biochem -- Current: 77
+
+Ariel Lane:
+	Concerning:
+		biochem -- Current: 80
+	Trouble:
+		archery -- Current: 32
+		journalism -- Current: 61
+
+Melina Maki:
+	Concerning:
+		journalism -- Current: 80
+	Trouble:
+		calculus -- Current: 75
+
+Ceara Snyder:
+	Concerning:
+		biochem -- Current: 80
+	Trouble:
+		drama -- Current: 16
+
+Hayden Casarez:
+	Concerning:
+		biochem -- Current: 79
+
+Jasper Fleming:
+	Concerning:
+		archery -- Current: 81
+		drama -- Current: 80
+	Trouble:
+		calculus -- Current: 74
+
+Savanah Chen:
+	Trouble:
+		drama -- Current: 37
+		biochem -- Current: 74
+
+Isaac Hathaway:
+	Trouble:
+		archery -- Current: 40
+		calculus -- Current: 50
+		biochem -- Current: 63
+
+Lilyann Luebke:
+	Concerning:
+		drama -- Current: 81
+	Trouble:
+		journalism -- Current: 37
+
+Ryan Helmandollar:
+	Trouble:
+		drama -- Current: 71
+
+Jamir Ince:
+	Concerning:
+		biochem -- Current: 81
+	Trouble:
+		archery -- Current: 37
+		journalism -- Current: 77
+		drama -- Current: 55
+
+Ian Ross:
+	Trouble:
+		journalism -- Current: 40
+		biochem -- Current: 75
+
+Brandon Ogasawara:
+	Trouble:
+		journalism -- Current: 56
+
+Deon Kirk:
+	Concerning:
+		journalism -- Current: 81
+		calculus -- Current: 81
+	Trouble:
+		drama -- Current: 77
+		biochem -- Current: 78
+
+Michael Gibbs:
+	Trouble:
+		archery -- Current: 62
+
+Charlotte Stauffer:
+	Trouble:
+		calculus -- Current: 62
+		biochem -- Current: 66
+
+Mohamed Miura:
+	Concerning:
+		calculus -- Current: 80
+		biochem -- Current: 80
+	Trouble:
+		archery -- Current: 64
+		journalism -- Current: 73
+
+Arianna Baker:
+	Concerning:
+		journalism -- Current: 80
+	Trouble:
+		drama -- Current: 69
+
+Christopher Salm:
+	Trouble:
+		journalism -- Current: 19
+		calculus -- Current: 74
+		drama -- Current: 64
+		biochem -- Current: 63
+
+Anthony Martinez:
+	Trouble:
+		archery -- Current: 45
+		calculus -- Current: 74
+		drama -- Current: 70
+		biochem -- Current: 45
+
+Juliana Bertram:
+	Trouble:
+		archery -- Current: 72
+		journalism -- Current: 55
+		drama -- Current: 75
+		biochem -- Current: 78
+
+Marcelo Latterell:
+	Trouble:
+		archery -- Current: 58
+		calculus -- Current: 69
+		drama -- Current: 44
+
+Armando Graham:
+	Trouble:
+		journalism -- Current: 41
+
+Zekiah Wade:
+	Trouble:
+		archery -- Current: 21
+		biochem -- Current: 44
+
+Melvin Diaz:
+	Concerning:
+		archery -- Current: 81
+	Trouble:
+		journalism -- Current: 67
+		biochem -- Current: 52
+
+Osiel Height:
+	Concerning:
+		calculus -- Current: 81
+	Trouble:
+		biochem -- Current: 54
+
+Ava Zachrich:
+	Concerning:
+		drama -- Current: 79
+	Trouble:
+		biochem -- Current: 70
+
+Devin Vo:
+	Concerning:
+		archery -- Current: 79
+
+Anthony Simmons:
+	Trouble:
+		archery -- Current: 61
+		calculus -- Current: 77
+
+Joel Reid:
+	Trouble:
+		drama -- Current: 74
+		biochem -- Current: 68
+
+Gabriella Wright:
+	Trouble:
+		archery -- Current: 64
+		calculus -- Current: 41
+		drama -- Current: 22
+		biochem -- Current: 74
+
+William Berman:
+	Concerning:
+		journalism -- Current: 79
+		calculus -- Current: 81
+	Trouble:
+		archery -- Current: 17
+		drama -- Current: 70
+		biochem -- Current: 70
+
+Milo Beebe:
+	Trouble:
+		drama -- Current: 64
+
+Matthew Middleton:
+	Trouble:
+		archery -- Current: 76
+		biochem -- Current: 74
+
+Caden Rutkowski:
+	Trouble:
+		biochem -- Current: 69
+
+Sienna Bagwell:
+	Trouble:
+		journalism -- Current: 71
+
+Danny Gagnard:
+	Trouble:
+		biochem -- Current: 22
+
+William Penaflor:
+	Trouble:
+		archery -- Current: 78
+		calculus -- Current: 63
+		drama -- Current: 76
+
+Sophia Stelmaszek:
+	Trouble:
+		archery -- Current: 68
+		calculus -- Current: 50
+		drama -- Current: 55
+
+Angelita Kerwin:
+	Trouble:
+		archery -- Current: 78
+		journalism -- Current: 11
+
+Jacob Sharp:
+	Trouble:
+		journalism -- Current: 75
+		biochem -- Current: 5
+
+Javarious Payne:
+	Trouble:
+		archery -- Current: 72
+
+Nathaniel Godwin:
+	Trouble:
+		archery -- Current: 50
+		journalism -- Current: 73
+		calculus -- Current: 60
+		drama -- Current: 71
+		biochem -- Current: 53
+
+Abby Jones:
+	Trouble:
+		archery -- Current: 74
+		calculus -- Current: 40
+		drama -- Current: 74
+
+Matthew Kelley:
+	Trouble:
+		journalism -- Current: 58
+		calculus -- Current: 70
+		drama -- Current: 43
+		biochem -- Current: 62
+
+Keane Casas:
+	Concerning:
+		archery -- Current: 80
+		drama -- Current: 81
+	Trouble:
+		journalism -- Current: 74
+		calculus -- Current: 75
+
+Gracyn Cross:
+	Trouble:
+		drama -- Current: 63
+
+Kady Paulk:
+	Trouble:
+		archery -- Current: 60
+		biochem -- Current: 67
+
+Landon Rosa:
+	Trouble:
+		archery -- Current: 43
+		journalism -- Current: 74
+		calculus -- Current: 67
+		biochem -- Current: 69
+
+Hayven Buechner:
+	Concerning:
+		biochem -- Current: 80
+	Trouble:
+		calculus -- Current: 68
+		drama -- Current: 40
+
+Dionte Quintana:
+	Trouble:
+		drama -- Current: 68
+		biochem -- Current: 41
+
+Ryan Reese:
+	Concerning:
+		drama -- Current: 80
+	Trouble:
+		archery -- Current: 69
+		calculus -- Current: 60
+		biochem -- Current: 37
+
+Maile Gaskin:
+	Trouble:
+		archery -- Current: 65
+		journalism -- Current: 77
+		calculus -- Current: 74
+
+Lucia Uriarte:
+	Concerning:
+		drama -- Current: 80
+
+Steven Gargan:
+	Trouble:
+		archery -- Current: 70
+		journalism -- Current: 66
+
+Jocob Delaguila:
+	Trouble:
+		journalism -- Current: 62
+		drama -- Current: 77
+		biochem -- Current: 41
+
+Katlin Sibio:
+	Trouble:
+		archery -- Current: 34
+		biochem -- Current: 15
+
+Alisha Ginter:
+	Trouble:
+		archery -- Current: 44
+		journalism -- Current: 77
+		calculus -- Current: 73
+		drama -- Current: 64
+
+Shyanne Bahr:
+	Concerning:
+		journalism -- Current: 81
+	Trouble:
+		drama -- Current: 58
+
+Kassandra Dilworth:
+	Trouble:
+		archery -- Current: 17
+		biochem -- Current: 61
+
+Anthony Cantrell:
+	Trouble:
+		calculus -- Current: 64
+		drama -- Current: 52
+
+Dylan Love:
+	Concerning:
+		journalism -- Current: 80
+		calculus -- Current: 79
+	Trouble:
+		drama -- Current: 21
+
+Gage Algarin:
+	Trouble:
+		journalism -- Current: 76
+		calculus -- Current: 62
+
+Dillon Harris:
+	Concerning:
+		archery -- Current: 81
+	Trouble:
+		journalism -- Current: 74
+		calculus -- Current: 68
+		biochem -- Current: 70
+
+Lee Orosco:
+	Trouble:
+		archery -- Current: 3
+		journalism -- Current: 46
+		drama -- Current: 75
+
+Alexis Bowen:
+	Trouble:
+		archery -- Current: 74
+		journalism -- Current: 70
+		calculus -- Current: 72
+
+Joshua Randall:
+	Trouble:
+		archery -- Current: 46
+
+Noah Tobias:
+	Concerning:
+		biochem -- Current: 79
+	Trouble:
+		archery -- Current: 57
+
+Tommi Kilgore:
+	Concerning:
+		journalism -- Current: 80
+	Trouble:
+		calculus -- Current: 60
+		drama -- Current: 77
+		biochem -- Current: 73
+
+Tiarra May:
+	Trouble:
+		calculus -- Current: 67
+		drama -- Current: 15
+		biochem -- Current: 49
+
+Kaitlin Gonzalez:
+	Trouble:
+		journalism -- Current: 78
+		calculus -- Current: 77
+		drama -- Current: 78
+		biochem -- Current: 75
+
+Nicholas Thomson:
+	Trouble:
+		archery -- Current: 73
+		calculus -- Current: 71
+		biochem -- Current: 77
+
+Breann Klingenberg:
+	Trouble:
+		journalism -- Current: 76
+		calculus -- Current: 74
+		drama -- Current: 78
+
+Theo Mcneil:
+	Trouble:
+		archery -- Current: 73
+		calculus -- Current: 73
+
+Jacob Moore:
+	Concerning:
+		archery -- Current: 79
+		calculus -- Current: 79
+	Trouble:
+		biochem -- Current: 75
+
+William Liao:
+	Trouble:
+		drama -- Current: 56
+		biochem -- Current: 33
+
+Christopher Clark:
+	Concerning:
+		archery -- Current: 79
+	Trouble:
+		drama -- Current: 71
+		biochem -- Current: 45
+
+Noah Gillespie:
+	Trouble:
+		calculus -- Current: 29
+		biochem -- Current: 75
+
+Quade Garcia:
+	Trouble:
+		journalism -- Current: 39
+		calculus -- Current: 76
+
+Adam Gomez:
+	Concerning:
+		calculus -- Current: 81
+	Trouble:
+		journalism -- Current: 76
+		drama -- Current: 77
+		biochem -- Current: 64
+
+Omar Keown:
+	Concerning:
+		archery -- Current: 79
+		biochem -- Current: 81
+	Trouble:
+		journalism -- Current: 76
+		calculus -- Current: 4
+		drama -- Current: 63
+
+Jake Wimsatt:
+	Trouble:
+		archery -- Current: 74
+		journalism -- Current: 75
+		drama -- Current: 78
+		biochem -- Current: 41
+
+Abbi Miller:
+	Trouble:
+		archery -- Current: 39
+
+Noah Padilla:
+	Concerning:
+		journalism -- Current: 81
+	Trouble:
+		biochem -- Current: 57
+
+Christopher Moreles:
+	Concerning:
+		biochem -- Current: 79
+	Trouble:
+		archery -- Current: 16
+		calculus -- Current: 71
+
+Grayson White:
+	Concerning:
+		calculus -- Current: 80
+		biochem -- Current: 81
+	Trouble:
+		journalism -- Current: 77
+
+Janine Millikan:
+	Concerning:
+		drama -- Current: 81
+	Trouble:
+		journalism -- Current: 70
+
+Lashawna Chen:
+	Trouble:
+		biochem -- Current: 63
+
+Andrew Mcfarlane:
+	Concerning:
+		calculus -- Current: 79
+	Trouble:
+		biochem -- Current: 78
+
+Luciano Hudson:
+	Trouble:
+		biochem -- Current: 71
+
+Echo Rowe:
+	Trouble:
+		archery -- Current: 78
+		calculus -- Current: 64
+		drama -- Current: 57
+
+David Nuno:
+	Concerning:
+		drama -- Current: 81
+	Trouble:
+		archery -- Current: 78
+		calculus -- Current: 74
+
+Nora Larson:
+	Trouble:
+		calculus -- Current: 71
+
+Gloria Robinson:
+	Trouble:
+		archery -- Current: 39
+		drama -- Current: 78
+
+Kailey Clark:
+	Trouble:
+		archery -- Current: 77
+		drama -- Current: 67
+		biochem -- Current: 62
+
+Nittaya Garcia:
+	Concerning:
+		journalism -- Current: 81
+	Trouble:
+		archery -- Current: 42
+		calculus -- Current: 60
+		biochem -- Current: 72
+
+Max Beyer:
+	Trouble:
+		calculus -- Current: 65
+		drama -- Current: 73
+		biochem -- Current: 75
+
+Coleman Reppert:
+	Trouble:
+		journalism -- Current: 73
+		calculus -- Current: 8
+		drama -- Current: 67
+
+Richard Grawe:
+	Trouble:
+		calculus -- Current: 33
+
+Quinn Smeltzer:
+	Trouble:
+		journalism -- Current: 11
+		calculus -- Current: 77
+		drama -- Current: 65
+
+Jaylia Cavanaugh:
+	Concerning:
+		archery -- Current: 81
+	Trouble:
+		drama -- Current: 32
+
+Austin Medina:
+	Trouble:
+		archery -- Current: 77
+		journalism -- Current: 36
+		biochem -- Current: 78
+
+David Swayze:
+	Trouble:
+		drama -- Current: 71
+
+Tyrell Macdonald:
+	Trouble:
+		archery -- Current: 74
+		journalism -- Current: 63
+		biochem -- Current: 68
+
+Tanara Bruton:
+	Trouble:
+		journalism -- Current: 58
+		calculus -- Current: 72
+
+Tyree Miramontes:
+	Concerning:
+		journalism -- Current: 79
+	Trouble:
+		archery -- Current: 72
+		calculus -- Current: 3
+		drama -- Current: 36
+		biochem -- Current: 49
+
+Desha Dudley:
+	Trouble:
+		archery -- Current: 12
+
+Ryan Giroir:
+	Trouble:
+		journalism -- Current: 62
+		calculus -- Current: 8
+		drama -- Current: 40
+		biochem -- Current: 75
+
+Ross Lozano:
+	Concerning:
+		archery -- Current: 79
+
+Christian Boutte:
+	Concerning:
+		biochem -- Current: 80
+	Trouble:
+		journalism -- Current: 77
+
+Walker Ornelas:
+	Trouble:
+		journalism -- Current: 63
+		calculus -- Current: 77
+
+Angel Matthiesen:
+	Trouble:
+		calculus -- Current: 78
+		drama -- Current: 45
+		biochem -- Current: 50
+
+Summer Tenorio:
+	Concerning:
+		drama -- Current: 79
+	Trouble:
+		archery -- Current: 61
+		journalism -- Current: 66
+		biochem -- Current: 71
+
+James Hodges:
+	Trouble:
+		journalism -- Current: 70
+		biochem -- Current: 74
+
+Ashton Dove:
+	Concerning:
+		drama -- Current: 81
+	Trouble:
+		journalism -- Current: 40
+		calculus -- Current: 60
+		biochem -- Current: 76
+
+Kent Blaker:
+	Trouble:
+		archery -- Current: 70
+
+Chandler Vanslyke:
+	Trouble:
+		calculus -- Current: 35
+		drama -- Current: 50
+		biochem -- Current: 16
+
+Tyler Zuniga:
+	Trouble:
+		archery -- Current: 70
+		biochem -- Current: 70
+
+Natasha Wellman:
+	Concerning:
+		calculus -- Current: 81
+		biochem -- Current: 80
+	Trouble:
+		journalism -- Current: 47
+		drama -- Current: 70
+
+Cindy Gordon:
+	Trouble:
+		calculus -- Current: 60
+
+Alyse Billups:
+	Trouble:
+		archery -- Current: 78
+		journalism -- Current: 66
+		calculus -- Current: 71
+
+Anthony Obrien:
+	Trouble:
+		journalism -- Current: 64
+		calculus -- Current: 12
+		drama -- Current: 68
+
+Carlos Bitel:
+	Concerning:
+		journalism -- Current: 81
+	Trouble:
+		calculus -- Current: 61
+		biochem -- Current: 78
+
+Kevin Mueller:
+	Concerning:
+		archery -- Current: 81
+	Trouble:
+		journalism -- Current: 67
+		calculus -- Current: 14
+		drama -- Current: 73
+		biochem -- Current: 26
+
+Virgil Perkins:
+	Trouble:
+		archery -- Current: 75
+		drama -- Current: 59
+
+Shekira Carey:
+	Concerning:
+		archery -- Current: 81
+	Trouble:
+		journalism -- Current: 61
+		biochem -- Current: 75
+
+Rachael Young:
+	Trouble:
+		journalism -- Current: 62
+		calculus -- Current: 72
+
+Brittany Dillon:
+	Trouble:
+		calculus -- Current: 76
+		drama -- Current: 70
+
+Derek Anderson:
+	Trouble:
+		calculus -- Current: 73
+		drama -- Current: 72
+
+Elijah Spencer:
+	Trouble:
+		calculus -- Current: 78
+		drama -- Current: 62
+		biochem -- Current: 77
+
+Karl Williams:
+	Concerning:
+		drama -- Current: 81
+	Trouble:
+		biochem -- Current: 57
+
+Alia Yoder:
+	Concerning:
+		archery -- Current: 80
+		calculus -- Current: 80
+	Trouble:
+		journalism -- Current: 66
+		drama -- Current: 71
+		biochem -- Current: 28
+
+Chasten Turner:
+	Trouble:
+		journalism -- Current: 10
+		drama -- Current: 62
+		biochem -- Current: 37
+
+Danyell Fried:
+	Concerning:
+		calculus -- Current: 81
+	Trouble:
+		archery -- Current: 60
+		journalism -- Current: 71
+		drama -- Current: 40
+		biochem -- Current: 76
+
+Travis Babb:
+	Trouble:
+		calculus -- Current: 60
+		drama -- Current: 36
+		biochem -- Current: 74
+
+Christopher Richards:
+	Trouble:
+		archery -- Current: 71
+		calculus -- Current: 76
+		drama -- Current: 70
+		biochem -- Current: 58
+
+Amaia Flores:
+	Concerning:
+		drama -- Current: 80
+	Trouble:
+		archery -- Current: 77
+		biochem -- Current: 31
+
+Ian Cartwright:
+	Trouble:
+		calculus -- Current: 71
+		drama -- Current: 73
+
+Jose Lanier:
+	Concerning:
+		biochem -- Current: 80
+	Trouble:
+		journalism -- Current: 23
+		drama -- Current: 78
+
+Tamyra Hopkins:
+	Trouble:
+		journalism -- Current: 77
+
+Corwin Mayorga:
+	Trouble:
+		archery -- Current: 71
+		journalism -- Current: 59
+		drama -- Current: 60
+
+Deonte Montague:
+	Trouble:
+		calculus -- Current: 46
+
+Josette Starzec:
+	Concerning:
+		drama -- Current: 81
+	Trouble:
+		biochem -- Current: 77
+
+Paul Sabori:
+	Trouble:
+		archery -- Current: 76
+		drama -- Current: 73
+		biochem -- Current: 70
+
+Richard Brigman:
+	Trouble:
+		archery -- Current: 73
+		journalism -- Current: 63
+		calculus -- Current: 65
+		drama -- Current: 60
+
+Andrew Blackford:
+	Trouble:
+		journalism -- Current: 70
+		calculus -- Current: 76
+		biochem -- Current: 69
+
+William Lopez:
+	Trouble:
+		calculus -- Current: 73
+		biochem -- Current: 36
+
+Roy Rodriguez:
+	Concerning:
+		drama -- Current: 80
+	Trouble:
+		calculus -- Current: 75
+		biochem -- Current: 77
+
+Divya Cook:
+	Trouble:
+		archery -- Current: 72
+		calculus -- Current: 68
+		biochem -- Current: 26
+
+Steven Hernandez:
+	Trouble:
+		archery -- Current: 68
+		calculus -- Current: 21
+
+Tyler Desrochers:
+	Trouble:
+		calculus -- Current: 61
+		biochem -- Current: 67
+
+Erica Hays:
+	Concerning:
+		archery -- Current: 81
+
+Lezlie Eames:
+	Trouble:
+		journalism -- Current: 66
+		calculus -- Current: 57
+		drama -- Current: 74
+
+William Batchelor:
+	Trouble:
+		journalism -- Current: 75
+		biochem -- Current: 50
+
+William Locke:
+	Concerning:
+		calculus -- Current: 79
+	Trouble:
+		archery -- Current: 77
+		journalism -- Current: 22
+		biochem -- Current: 73
+
+Marshall Cantu:
+	Concerning:
+		biochem -- Current: 80
+	Trouble:
+		journalism -- Current: 70
+		drama -- Current: 40
+
+Jonas Jakubowicz:
+	Trouble:
+		archery -- Current: 22
+		journalism -- Current: 75
+
+Aidan Palermo:
+	Trouble:
+		archery -- Current: 74
+		journalism -- Current: 71
+		calculus -- Current: 45
+		biochem -- Current: 29
+
+Amelya Choi:
+	Concerning:
+		archery -- Current: 80
+	Trouble:
+		drama -- Current: 42
+
+Benjamin Embry:
+	Concerning:
+		journalism -- Current: 79
+	Trouble:
+		archery -- Current: 63
+		calculus -- Current: 52
+		biochem -- Current: 71
+
+Eric Gilpin:
+	Concerning:
+		archery -- Current: 81
+	Trouble:
+		journalism -- Current: 74
+		calculus -- Current: 70
+		drama -- Current: 72
+
+Henry Cropper:
+	Trouble:
+		archery -- Current: 64
+		journalism -- Current: 64
+		calculus -- Current: 77
+
+Shawn Richardson:
+	Concerning:
+		drama -- Current: 79
+	Trouble:
+		journalism -- Current: 78
+		calculus -- Current: 33
+		biochem -- Current: 48
+
+Gabriella Malone:
+	Concerning:
+		archery -- Current: 81
+		journalism -- Current: 81
+		biochem -- Current: 81
+	Trouble:
+		calculus -- Current: 61
+		drama -- Current: 77
+
+Nicholas Altman:
+	Concerning:
+		drama -- Current: 80
+		biochem -- Current: 81
+	Trouble:
+		journalism -- Current: 57
+
+Ethan Walczewski:
+	Concerning:
+		drama -- Current: 80
+		biochem -- Current: 79
+	Trouble:
+		archery -- Current: 38
+		journalism -- Current: 60
+		calculus -- Current: 67
+
+Ava Byland:
+	Trouble:
+		archery -- Current: 3
+		calculus -- Current: 66
+
+Tyler Sandhu:
+	Concerning:
+		journalism -- Current: 81
+		biochem -- Current: 80
+	Trouble:
+		archery -- Current: 52
+
+Mahmood Chambers:
+	Trouble:
+		calculus -- Current: 76
+
+Theodore Carrillo:
+	Trouble:
+		drama -- Current: 52
+
+Alexander Schneck:
+	Trouble:
+		calculus -- Current: 65
+		biochem -- Current: 35
+
+Isaiah Hague:
+	Trouble:
+		archery -- Current: 58
+		calculus -- Current: 46
+		drama -- Current: 53
+
+Jace Dignazio:
+	Concerning:
+		journalism -- Current: 80
+	Trouble:
+		calculus -- Current: 65
+
+Cameron Welch:
+	Trouble:
+		journalism -- Current: 76
+		calculus -- Current: 36
+		biochem -- Current: 73
+
+Wesley Medina:
+	Trouble:
+		journalism -- Current: 0
+		biochem -- Current: 72
+
+Darryl Newman:
+	Concerning:
+		archery -- Current: 80
+		drama -- Current: 80
+	Trouble:
+		biochem -- Current: 74
+
+David Deegan:
+	Concerning:
+		archery -- Current: 81
+	Trouble:
+		calculus -- Current: 75
+
+Owen Gardner:
+	Concerning:
+		biochem -- Current: 80
+	Trouble:
+		calculus -- Current: 76
+
+Mark Bruce:
+	Trouble:
+		archery -- Current: 72
+		drama -- Current: 69
+
+Baltazar Hood:
+	Trouble:
+		archery -- Current: 77
+		journalism -- Current: 73
+		drama -- Current: 49
+		biochem -- Current: 75
+
+Brock Sedano:
+	Trouble:
+		journalism -- Current: 47
+		biochem -- Current: 77
+
+Bryan Pires:
+	Trouble:
+		calculus -- Current: 66
+		drama -- Current: 40
+		biochem -- Current: 70
+
+Kelli Unrath:
+	Trouble:
+		archery -- Current: 72
+		journalism -- Current: 78
+
+Paul Wilson:
+	Trouble:
+		archery -- Current: 66
+
+Roberto Otero:
+	Trouble:
+		drama -- Current: 61
+
+Layna Thomas:
+	Trouble:
+		archery -- Current: 71
+		journalism -- Current: 49
+		calculus -- Current: 74
+		drama -- Current: 76
+
+Cristian Vanwinkle:
+	Trouble:
+		archery -- Current: 55
+		journalism -- Current: 75
+		calculus -- Current: 15
+		drama -- Current: 46
+
+Angelos Hodge:
+	Trouble:
+		archery -- Current: 48
+		journalism -- Current: 64
+		drama -- Current: 68
+
+Alianna Hewitt:
+	Trouble:
+		archery -- Current: 64
+		journalism -- Current: 61
+		calculus -- Current: 6
+
+Isaiah Wheeler:
+	Concerning:
+		archery -- Current: 80
+		biochem -- Current: 81
+	Trouble:
+		journalism -- Current: 63
+		drama -- Current: 58
+
+Jason Robinson:
+	Concerning:
+		calculus -- Current: 81
+	Trouble:
+		journalism -- Current: 60
+		drama -- Current: 61
+
+Joselynn Ramos:
+	Trouble:
+		journalism -- Current: 60
+		calculus -- Current: 50
+
+Jaylon Hay:
+	Trouble:
+		drama -- Current: 73
+		biochem -- Current: 70
+
+Hollie Bauer:
+	Trouble:
+		drama -- Current: 45
+		biochem -- Current: 77
+
+Ashwin Ford:
+	Trouble:
+		journalism -- Current: 72
+		drama -- Current: 72
+
+Gabriel Tomlinson:
+	Concerning:
+		drama -- Current: 80
+	Trouble:
+		calculus -- Current: 70
+		biochem -- Current: 63
+
+Cornelius Bryant:
+	Trouble:
+		calculus -- Current: 75
+		biochem -- Current: 64
+
+David Mccarty:
+	Trouble:
+		archery -- Current: 2
+		calculus -- Current: 76
+
+Payton Spang:
+	Concerning:
+		calculus -- Current: 81
+	Trouble:
+		journalism -- Current: 76
+		drama -- Current: 21
+
+Adam Fuller:
+	Trouble:
+		biochem -- Current: 76
+
+Aniya Arnold:
+	Trouble:
+		archery -- Current: 70
+		biochem -- Current: 47
+
+Arianna Stovall:
+	Concerning:
+		biochem -- Current: 80
+	Trouble:
+		archery -- Current: 66
+		journalism -- Current: 76
+		calculus -- Current: 70
+		drama -- Current: 78
+
+Alejandro Browne:
+	Trouble:
+		archery -- Current: 74
+		calculus -- Current: 66
+		biochem -- Current: 76
+
+Cameron Hodgen:
+	Concerning:
+		drama -- Current: 79
+	Trouble:
+		biochem -- Current: 54
+
+Madalyn Rose:
+	Concerning:
+		calculus -- Current: 80
+		biochem -- Current: 80
+	Trouble:
+		archery -- Current: 74
+
+Rosemary Ross:
+	Trouble:
+		archery -- Current: 78
+		journalism -- Current: 50
+		calculus -- Current: 69
+		drama -- Current: 66
+		biochem -- Current: 76
+
+Gabriel Whyatt:
+	Trouble:
+		journalism -- Current: 5
+		calculus -- Current: 73
+		drama -- Current: 78
+		biochem -- Current: 46
+
+Justice Hurtado:
+	Concerning:
+		journalism -- Current: 80
+	Trouble:
+		drama -- Current: 72
+		biochem -- Current: 38
+
+Jacob Glazer:
+	Concerning:
+		archery -- Current: 79
+		biochem -- Current: 81
+
+Christian Brown:
+	Trouble:
+		archery -- Current: 21
+		journalism -- Current: 74
+		biochem -- Current: 53
+
+Jose Potts:
+	Trouble:
+		archery -- Current: 76
+		drama -- Current: 68
+		biochem -- Current: 52
+
+Joshua Gillespie:
+	Trouble:
+		archery -- Current: 77
+		journalism -- Current: 13
+		calculus -- Current: 71
+
+Alexander Wines:
+	Trouble:
+		calculus -- Current: 44
+		drama -- Current: 76
+
+Francisco Harper:
+	Concerning:
+		biochem -- Current: 80
+	Trouble:
+		calculus -- Current: 64
+
+Brenton Freeman:
+	Trouble:
+		archery -- Current: 63
+		biochem -- Current: 61
+
+Jacob Whitehead:
+	Trouble:
+		archery -- Current: 23
+		calculus -- Current: 78
+
+Brendan Duffala:
+	Trouble:
+		archery -- Current: 3
+		calculus -- Current: 72
+		biochem -- Current: 6
+
+Joshua Vandyk:
+	Trouble:
+		drama -- Current: 63
+
+Charles Love:
+	Concerning:
+		archery -- Current: 79
+		calculus -- Current: 80
+	Trouble:
+		journalism -- Current: 33
+		biochem -- Current: 72
+
+Hunter Moore:
+	Trouble:
+		archery -- Current: 76
+		journalism -- Current: 70
+		calculus -- Current: 61
+
+Carter Radebaugh:
+	Trouble:
+		journalism -- Current: 49
+		calculus -- Current: 57
+		biochem -- Current: 78
+
+Dontavious Reynoso:
+	Trouble:
+		calculus -- Current: 72
+		biochem -- Current: 78
+
+Anne Winter:
+	Concerning:
+		drama -- Current: 80
+	Trouble:
+		journalism -- Current: 61
+		calculus -- Current: 71
+		biochem -- Current: 67
+
+Dawson Hernandez:
+	Trouble:
+		calculus -- Current: 71
+		drama -- Current: 70
+
+Logan Wolff:
+	Trouble:
+		archery -- Current: 9
+
+Hayden Braun:
+	Concerning:
+		biochem -- Current: 79
+	Trouble:
+		archery -- Current: 31
+		journalism -- Current: 66
+		drama -- Current: 60
+
+Mikayla Callon:
+	Trouble:
+		calculus -- Current: 16
+
+Jayda Byrne:
+	Concerning:
+		calculus -- Current: 79
+	Trouble:
+		drama -- Current: 76
+
+Martin Pena:
+	Trouble:
+		archery -- Current: 69
+		journalism -- Current: 76
+		calculus -- Current: 66
+
+Myron Mcgee:
+	Trouble:
+		archery -- Current: 64
+		journalism -- Current: 64
+
+Ileana Haynes:
+	Concerning:
+		biochem -- Current: 80
+	Trouble:
+		journalism -- Current: 20
+		drama -- Current: 74
+
+Barbara Forbush:
+	Trouble:
+		archery -- Current: 63
+		journalism -- Current: 71
+		calculus -- Current: 59
+		biochem -- Current: 62
+
+Rider Goldberg:
+	Trouble:
+		drama -- Current: 71
+		biochem -- Current: 72
+
+Meghan Harris:
+	Trouble:
+		archery -- Current: 40
+		journalism -- Current: 48
+		calculus -- Current: 68
+		biochem -- Current: 78
+
+Dario Herman:
+	Concerning:
+		archery -- Current: 79
+	Trouble:
+		journalism -- Current: 60
+		calculus -- Current: 62
+		biochem -- Current: 78
+
+Adelaide Gomez:
+	Trouble:
+		archery -- Current: 62
+		journalism -- Current: 76
+		drama -- Current: 75
+
+Francesco Killman:
+	Trouble:
+		archery -- Current: 66
+		calculus -- Current: 59
+		biochem -- Current: 39
+
+Dane Hummer:
+	Trouble:
+		journalism -- Current: 71
+		drama -- Current: 71
+
+Julius Jacobs:
+	Trouble:
+		journalism -- Current: 64
+		drama -- Current: 70
+
+Joseph Berry:
+	Trouble:
+		drama -- Current: 67
+
+Santiago Deaton:
+	Concerning:
+		drama -- Current: 80
+	Trouble:
+		calculus -- Current: 37
+		biochem -- Current: 78
+
+Javid Gullo:
+	Trouble:
+		archery -- Current: 72
+		drama -- Current: 74
+		biochem -- Current: 74
+
+Charles Zepeda:
+	Concerning:
+		journalism -- Current: 80
+	Trouble:
+		archery -- Current: 74
+
+Dustin Malone:
+	Trouble:
+		archery -- Current: 55
+		journalism -- Current: 42
+		calculus -- Current: 70
+		biochem -- Current: 74
+
+Marily Jackson:
+	Trouble:
+		drama -- Current: 18
+
+Thomas Ahumada:
+	Trouble:
+		journalism -- Current: 67
+		biochem -- Current: 74
+
+Jordan Heglin:
+	Trouble:
+		archery -- Current: 73
+		calculus -- Current: 52
+		drama -- Current: 74
+		biochem -- Current: 54
+
+Cayla Owen:
+	Trouble:
+		journalism -- Current: 78
+		calculus -- Current: 74
+		drama -- Current: 61
+
+Martin Uribe:
+	Trouble:
+		journalism -- Current: 77
+		calculus -- Current: 71
+		biochem -- Current: 58
+
+Jared Holton:
+	Concerning:
+		journalism -- Current: 80
+	Trouble:
+		calculus -- Current: 67
+		drama -- Current: 74
+
+Glenda Penn:
+	Trouble:
+		archery -- Current: 61
+		drama -- Current: 46
+
+Jake Garner:
+	Trouble:
+		calculus -- Current: 7
+		biochem -- Current: 75
+
+Sophie Khan:
+	Trouble:
+		archery -- Current: 71
+		journalism -- Current: 58
+		calculus -- Current: 59
+
+Julianna Mendez:
+	Trouble:
+		archery -- Current: 76
+		drama -- Current: 76
+
+Bryce Schroeder:
+	Concerning:
+		archery -- Current: 80
+	Trouble:
+		drama -- Current: 69
+
+Jose Billingsley:
+	Trouble:
+		archery -- Current: 78
+		calculus -- Current: 71
+		biochem -- Current: 54
+
+Garrett Mills:
+	Concerning:
+		journalism -- Current: 79
+		calculus -- Current: 81
+
+Yesenia Garcia:
+	Trouble:
+		archery -- Current: 16
+		biochem -- Current: 72
+
+Nicholas Colin:
+	Trouble:
+		drama -- Current: 64
+
+Jose Ball:
+	Concerning:
+		archery -- Current: 79
+	Trouble:
+		biochem -- Current: 21
+
+Kevin Weldy:
+	Trouble:
+		archery -- Current: 59
+		drama -- Current: 73
+
+Jonah Hughes:
+	Concerning:
+		drama -- Current: 81
+	Trouble:
+		archery -- Current: 64
+		journalism -- Current: 65
+		biochem -- Current: 75
+
+Jack Schang:
+	Concerning:
+		calculus -- Current: 81
+	Trouble:
+		journalism -- Current: 43
+
+Rafael Angeli:
+	Trouble:
+		archery -- Current: 78
+		calculus -- Current: 69
+		drama -- Current: 62
+		biochem -- Current: 70
+
+Anthony Tegtman:
+	Trouble:
+		archery -- Current: 70
+		calculus -- Current: 74
+		biochem -- Current: 56
+
+Noah Leber:
+	Trouble:
+		biochem -- Current: 16
+
+Joshue Webber:
+	Concerning:
+		archery -- Current: 81
+	Trouble:
+		journalism -- Current: 70
+		drama -- Current: 66
+		biochem -- Current: 12
+
+Marquez Butler:
+	Trouble:
+		archery -- Current: 76
+		journalism -- Current: 77
+		calculus -- Current: 76
+
+Justin Alleyne:
+	Trouble:
+		archery -- Current: 74
+		journalism -- Current: 62
+		biochem -- Current: 73
+
+Parker Medina:
+	Concerning:
+		drama -- Current: 79
+	Trouble:
+		calculus -- Current: 13
+
+Jordon Biederman:
+	Trouble:
+		archery -- Current: 70
+		drama -- Current: 62
+
+Elliot Gomez:
+	Trouble:
+		calculus -- Current: 61
+		biochem -- Current: 57
+
+Raeven Edge:
+	Trouble:
+		calculus -- Current: 39
+		biochem -- Current: 73
+
+Kelli Kelsey:
+	Trouble:
+		archery -- Current: 74
+		journalism -- Current: 72
+		calculus -- Current: 75
+
+Hunter Rivera:
+	Concerning:
+		journalism -- Current: 80
+	Trouble:
+		archery -- Current: 77
+
+Kyron Keefer:
+	Concerning:
+		calculus -- Current: 81
+
+Daniel Benton:
+	Concerning:
+		archery -- Current: 79
+	Trouble:
+		drama -- Current: 72
+
+Zion Thompson:
+	Trouble:
+		journalism -- Current: 5
+		calculus -- Current: 50
+		drama -- Current: 73
+		biochem -- Current: 72
+
+Devin Russo:
+	Concerning:
+		archery -- Current: 79
+		calculus -- Current: 79
+	Trouble:
+		drama -- Current: 56
+		biochem -- Current: 16
+
+Genevieve Mccarthy:
+	Trouble:
+		archery -- Current: 76
+		journalism -- Current: 52
+		drama -- Current: 71
+		biochem -- Current: 74
+
+Lamyra Green:
+	Concerning:
+		drama -- Current: 80
+	Trouble:
+		archery -- Current: 68
+
+Benjamin Johns:
+	Trouble:
+		drama -- Current: 63
+		biochem -- Current: 72
+
+Rosalinda Metcalf:
+	Trouble:
+		drama -- Current: 77
+
+Blake Sorrentino:
+	Concerning:
+		calculus -- Current: 79
+	Trouble:
+		journalism -- Current: 76
+		drama -- Current: 74
+		biochem -- Current: 65
+
+James Ramos:
+	Concerning:
+		drama -- Current: 80
+	Trouble:
+		journalism -- Current: 78
+		biochem -- Current: 71
+
+Dashawn Goff:
+	Trouble:
+		journalism -- Current: 51
+		biochem -- Current: 70
+
+Daniel Wagner:
+	Trouble:
+		archery -- Current: 57
+		journalism -- Current: 61
+
+Michael Barrand:
+	Concerning:
+		biochem -- Current: 79
+	Trouble:
+		calculus -- Current: 77
+		drama -- Current: 47
+
+Naomi Armstead:
+	Trouble:
+		archery -- Current: 78
+
+Daniel Mullins:
+	Trouble:
+		journalism -- Current: 53
+
+Richard Baecker:
+	Trouble:
+		archery -- Current: 77
+		journalism -- Current: 71
+		calculus -- Current: 78
+
+Kyli Bechard:
+	Concerning:
+		biochem -- Current: 79
+	Trouble:
+		drama -- Current: 76
+
+Maximus Shroll:
+	Trouble:
+		journalism -- Current: 78
+		calculus -- Current: 31
+
+Ryan Hein:
+	Trouble:
+		archery -- Current: 17
+
+Caleigh Gladis:
+	Trouble:
+		biochem -- Current: 73
+
+Elaine Serrano:
+	Concerning:
+		biochem -- Current: 79
+	Trouble:
+		archery -- Current: 68
+
+Maeve Castillo:
+	Concerning:
+		biochem -- Current: 79
+
+Hunter Demmitt:
+	Trouble:
+		journalism -- Current: 65
+		biochem -- Current: 74
+
+Jakelyn Waller:
+	Trouble:
+		drama -- Current: 69
+		biochem -- Current: 67
+
+Mason Madorin:
+	Trouble:
+		journalism -- Current: 49
+		calculus -- Current: 78
+
+Javaughn Blevins:
+	Trouble:
+		calculus -- Current: 74
+		drama -- Current: 22
+
+Mikia Wineland:
+	Concerning:
+		archery -- Current: 79
+		biochem -- Current: 80
+	Trouble:
+		journalism -- Current: 70
+		drama -- Current: 70
+
+Zachari Huck:
+	Trouble:
+		journalism -- Current: 67
+		calculus -- Current: 76
+		drama -- Current: 46
+		biochem -- Current: 21
+
+Jovany Smith:
+	Trouble:
+		archery -- Current: 28
+		journalism -- Current: 71
+		calculus -- Current: 76
+		drama -- Current: 28
+
+Aaron Swingle:
+	Trouble:
+		archery -- Current: 73
+		journalism -- Current: 62
+
+Robert Patel:
+	Trouble:
+		archery -- Current: 27
+
+Lisandro Cason:
+	Trouble:
+		archery -- Current: 71
+		journalism -- Current: 77
+		calculus -- Current: 1
+		biochem -- Current: 72
+
+Josephine Adams:
+	Trouble:
+		journalism -- Current: 61
+
+Abriana Fry:
+	Trouble:
+		journalism -- Current: 69
+		calculus -- Current: 63
+		biochem -- Current: 76
+
+Pablo Wisniewski:
+	Concerning:
+		calculus -- Current: 81
+	Trouble:
+		drama -- Current: 65
+		biochem -- Current: 70
+
+Marian Zuidema:
+	Trouble:
+		archery -- Current: 61
+		journalism -- Current: 18
+		calculus -- Current: 73
+
+Erik Parker:
+	Concerning:
+		archery -- Current: 81
+	Trouble:
+		biochem -- Current: 71
+
+Julian Walker:
+	Concerning:
+		journalism -- Current: 81
+	Trouble:
+		archery -- Current: 54
+
+Cameron Bechtel:
+	Concerning:
+		calculus -- Current: 80
+	Trouble:
+		archery -- Current: 60
+		biochem -- Current: 75
+
+Andre Larrison:
+	Trouble:
+		archery -- Current: 22
+		biochem -- Current: 78
+
+Mikael Horner:
+	Trouble:
+		calculus -- Current: 69
+		biochem -- Current: 71
+
+Timothy Griffin:
+	Trouble:
+		archery -- Current: 54
+		journalism -- Current: 57
+		calculus -- Current: 64
+		biochem -- Current: 71
+
+Marcus Prevete:
+	Trouble:
+		calculus -- Current: 72
+		biochem -- Current: 69
+
+Jimmy Bartley:
+	Concerning:
+		journalism -- Current: 81
+
+Lena Labree:
+	Concerning:
+		archery -- Current: 79
+	Trouble:
+		calculus -- Current: 69
+		drama -- Current: 77
+		biochem -- Current: 60
+
+Domenico Depasquale:
+	Trouble:
+		archery -- Current: 36
+		calculus -- Current: 61
+		drama -- Current: 56
+
+Riana Marsh:
+	Trouble:
+		archery -- Current: 29
+		drama -- Current: 64
+
+Jeremy Bilka:
+	Trouble:
+		archery -- Current: 67
+		calculus -- Current: 35
+		biochem -- Current: 62
+
+Justin Cline:
+	Trouble:
+		archery -- Current: 77
+		journalism -- Current: 61
+		calculus -- Current: 59
+
+Shawn Sangirardi:
+	Trouble:
+		archery -- Current: 66
+		calculus -- Current: 13
+		drama -- Current: 19
+
+Connor Fuentes:
+	Trouble:
+		archery -- Current: 77
+
+Osborne Reynolds:
+	Trouble:
+		biochem -- Current: 60
+
+Britney Books:
+	Trouble:
+		archery -- Current: 52
+		journalism -- Current: 69
+		calculus -- Current: 67
+		drama -- Current: 69
+		biochem -- Current: 78
+
+Brendon Fair:
+	Trouble:
+		archery -- Current: 71
+		journalism -- Current: 78
+		calculus -- Current: 71
+		biochem -- Current: 67
+
+Amayah Pickerel:
+	Trouble:
+		calculus -- Current: 51
+
+Yazmin Hayes:
+	Concerning:
+		calculus -- Current: 80
+	Trouble:
+		journalism -- Current: 60
+
+Nicholas Stockler:
+	Trouble:
+		calculus -- Current: 41
+		drama -- Current: 76
+		biochem -- Current: 46
+
+Gracie Delgado:
+	Trouble:
+		archery -- Current: 71
+		journalism -- Current: 52
+		drama -- Current: 72
+
+Jarrett Noronha:
+	Trouble:
+		journalism -- Current: 69
+		drama -- Current: 70
+		biochem -- Current: 52
+
+Charles Schulz:
+	Trouble:
+		archery -- Current: 63
+		journalism -- Current: 61
+		calculus -- Current: 68
+		drama -- Current: 70
+
+Jacob Morgan:
+	Concerning:
+		drama -- Current: 81
+		biochem -- Current: 81
+	Trouble:
+		journalism -- Current: 65
+		calculus -- Current: 68
+
+Ivan Gomez:
+	Concerning:
+		biochem -- Current: 81
+
+Sariah Gomez:
+	Trouble:
+		drama -- Current: 71
+		biochem -- Current: 69
+
+Jeremy Yan:
+	Trouble:
+		calculus -- Current: 74
+		drama -- Current: 74
+		biochem -- Current: 75
+
+Kyle Oberst:
+	Trouble:
+		drama -- Current: 68
+
+Summer Fischer:
+	Concerning:
+		calculus -- Current: 80
+	Trouble:
+		drama -- Current: 10
+		biochem -- Current: 75
+
+Savanna Stclair:
+	Trouble:
+		archery -- Current: 73
+		drama -- Current: 19
+
+Marquise Turner:
+	Concerning:
+		calculus -- Current: 81
+	Trouble:
+		journalism -- Current: 73
+
+Nicholas Jeanbaptiste:
+	Concerning:
+		archery -- Current: 81
+
+Niles Sisk:
+	Trouble:
+		archery -- Current: 74
+		calculus -- Current: 78
+		drama -- Current: 62
+		biochem -- Current: 60
+
+Chad Zahn:
+	Trouble:
+		archery -- Current: 75
+		journalism -- Current: 9
+		drama -- Current: 47
+
+Joshua Ortiz:
+	Trouble:
+		archery -- Current: 66
+		journalism -- Current: 63
+
+Timothy Dildy:
+	Concerning:
+		journalism -- Current: 81
+	Trouble:
+		drama -- Current: 72
+
+Nicholas Serrano:
+	Trouble:
+		archery -- Current: 55
+		journalism -- Current: 43
+		biochem -- Current: 74
+
+Zackary Westlake:
+	Trouble:
+		archery -- Current: 44
+		calculus -- Current: 35
+		biochem -- Current: 75
+
+Deandre Gilmore:
+	Trouble:
+		biochem -- Current: 56
+
+Walker Bishop:
+	Concerning:
+		journalism -- Current: 81
+	Trouble:
+		archery -- Current: 13
+		calculus -- Current: 62
+		drama -- Current: 67
+		biochem -- Current: 11
+
+Eryca Godwin:
+	Trouble:
+		calculus -- Current: 62
+		drama -- Current: 73
+		biochem -- Current: 42
+
+Fatima Villarreal:
+	Concerning:
+		biochem -- Current: 79
+	Trouble:
+		calculus -- Current: 74
+		drama -- Current: 49
+
+Alexis Wilson:
+	Trouble:
+		calculus -- Current: 72
+		biochem -- Current: 59
+
+Matthew Perry:
+	Trouble:
+		archery -- Current: 71
+		calculus -- Current: 78
+		drama -- Current: 62
+		biochem -- Current: 69
+
+Robert Gregory:
+	Concerning:
+		drama -- Current: 79
+	Trouble:
+		journalism -- Current: 74
+		calculus -- Current: 77
+
+Janet Surratt:
+	Trouble:
+		archery -- Current: 59
+		calculus -- Current: 55
+		biochem -- Current: 52
+
+Allyson Cavasos:
+	Concerning:
+		calculus -- Current: 80
+	Trouble:
+		archery -- Current: 15
+		journalism -- Current: 5
+		drama -- Current: 77
+
+Melodie Villanueva:
+	Trouble:
+		journalism -- Current: 63
+
+Juan Risco:
+	Concerning:
+		calculus -- Current: 80
+		drama -- Current: 79
+	Trouble:
+		archery -- Current: 60
+		journalism -- Current: 72
+
+Kaylynn Akhter:
+	Trouble:
+		journalism -- Current: 77
+		calculus -- Current: 70
+
+Laiza Chavez:
+	Trouble:
+		journalism -- Current: 50
+		drama -- Current: 16
+
+Robert Moynagh:
+	Trouble:
+		archery -- Current: 77
+
+Tatyana Guice:
+	Concerning:
+		journalism -- Current: 79
+	Trouble:
+		archery -- Current: 49
+		calculus -- Current: 66
+		biochem -- Current: 71
+
+Enrique Lee:
+	Trouble:
+		biochem -- Current: 68
+
+Halle Thorn:
+	Concerning:
+		drama -- Current: 79
+	Trouble:
+		archery -- Current: 28
+
+Joseph Croll:
+	Trouble:
+		drama -- Current: 70
+
+Aidan Villa:
+	Concerning:
+		archery -- Current: 80
+	Trouble:
+		journalism -- Current: 72
+		calculus -- Current: 39
+
+Shane Lo:
+	Concerning:
+		archery -- Current: 81
+		calculus -- Current: 79
+	Trouble:
+		drama -- Current: 47
+		biochem -- Current: 70
+
+Michael Silva:
+	Trouble:
+		archery -- Current: 64
+		calculus -- Current: 45
+		biochem -- Current: 64
+
+Jc Bonet:
+	Trouble:
+		drama -- Current: 30
+
+Caleb Thomas:
+	Trouble:
+		calculus -- Current: 59
+
+Jordan Pope:
+	Concerning:
+		biochem -- Current: 80
+	Trouble:
+		archery -- Current: 76
+		calculus -- Current: 78
+
+Parker Henriquez:
+	Trouble:
+		calculus -- Current: 78
+
+Ryan Klipfel:
+	Trouble:
+		archery -- Current: 71
+		drama -- Current: 69
+
+Adrian Sinkler:
+	Concerning:
+		archery -- Current: 81
+	Trouble:
+		calculus -- Current: 60
+		biochem -- Current: 74
+
+Luke Annett:
+	Concerning:
+		biochem -- Current: 79
+	Trouble:
+		journalism -- Current: 73
+		drama -- Current: 72
+
+Corey Hanson:
+	Trouble:
+		archery -- Current: 72
+		journalism -- Current: 62
+		calculus -- Current: 54
+		drama -- Current: 68
+
+Mianna Rodriguez:
+	Trouble:
+		archery -- Current: 74
+
+Cole Terry:
+	Trouble:
+		journalism -- Current: 71
+
+Julio Welle:
+	Concerning:
+		archery -- Current: 81
+	Trouble:
+		journalism -- Current: 73
+		biochem -- Current: 66
+
+Damian Granados:
+	Trouble:
+		archery -- Current: 77
+		calculus -- Current: 60
+		drama -- Current: 62
+		biochem -- Current: 78
+
+Karlee Elmer:
+	Trouble:
+		archery -- Current: 76
+		calculus -- Current: 50
+
+Benjamin Boyd:
+	Trouble:
+		journalism -- Current: 78
+		calculus -- Current: 62
+		drama -- Current: 23
+
+Agatha Elkins:
+	Trouble:
+		archery -- Current: 65
+		journalism -- Current: 49
+		calculus -- Current: 75
+		drama -- Current: 78
+
+Kamryn Gorman:
+	Trouble:
+		archery -- Current: 14
+		biochem -- Current: 66
+
+Shawn Martin:
+	Trouble:
+		archery -- Current: 61
+		drama -- Current: 60
+
+Brandyn Willis:
+	Trouble:
+		drama -- Current: 70
+		biochem -- Current: 31
+
+Gage Custer:
+	Trouble:
+		calculus -- Current: 60
+		drama -- Current: 20
+		biochem -- Current: 76
+
+Angel Jones:
+	Trouble:
+		journalism -- Current: 49
+		calculus -- Current: 67
+		biochem -- Current: 71
+
+Joseph Mcdanial:
+	Concerning:
+		biochem -- Current: 79
+	Trouble:
+		journalism -- Current: 22
+
+David Bond:
+	Trouble:
+		archery -- Current: 60
+		journalism -- Current: 69
+		drama -- Current: 77
+		biochem -- Current: 74
+
+Thomas Simpson:
+	Trouble:
+		archery -- Current: 70
+		calculus -- Current: 75
+		drama -- Current: 73
+		biochem -- Current: 75
+
+Dayne Morin:
+	Trouble:
+		archery -- Current: 37
+		biochem -- Current: 77
+
+Felipe Soto:
+	Trouble:
+		archery -- Current: 30
+		journalism -- Current: 69
+		biochem -- Current: 65
+
+Justin Perez:
+	Concerning:
+		archery -- Current: 80
+		biochem -- Current: 81
+	Trouble:
+		journalism -- Current: 55
+		calculus -- Current: 66
+
+Nicholas Babb:
+	Trouble:
+		archery -- Current: 59
+		drama -- Current: 63
+		biochem -- Current: 73
+
+Caleb Lewis:
+	Trouble:
+		archery -- Current: 52
+		journalism -- Current: 59
+		biochem -- Current: 73
+
+Kyair Goodhue:
+	Trouble:
+		biochem -- Current: 64
+
+Mason Parker:
+	Concerning:
+		archery -- Current: 81
+	Trouble:
+		drama -- Current: 65
+		biochem -- Current: 50
+
+Nathaniel Campos:
+	Trouble:
+		archery -- Current: 74
+		journalism -- Current: 41
+		drama -- Current: 64
+
+Emiley Huffer:
+	Trouble:
+		journalism -- Current: 6
+		drama -- Current: 75
+
+Robert Davis:
+	Concerning:
+		biochem -- Current: 81
+	Trouble:
+		archery -- Current: 78
+		calculus -- Current: 55
+
+Nathaneil Smith:
+	Concerning:
+		drama -- Current: 80
+	Trouble:
+		journalism -- Current: 76
+		calculus -- Current: 78
+
+Richard Efaw:
+	Trouble:
+		archery -- Current: 18
+		calculus -- Current: 72
+		drama -- Current: 68
+		biochem -- Current: 22
+
+Joshua Casey:
+	Trouble:
+		journalism -- Current: 78
+
+Jarius Mancilla:
+	Concerning:
+		drama -- Current: 80
+	Trouble:
+		journalism -- Current: 27
+		calculus -- Current: 8
+
+Jenniffer Mann:
+	Trouble:
+		archery -- Current: 45
+		journalism -- Current: 29
+		biochem -- Current: 64
+
+Daniel Shaw:
+	Trouble:
+		archery -- Current: 68
+		journalism -- Current: 57
+
+Cody Sutton:
+	Concerning:
+		biochem -- Current: 80
+	Trouble:
+		archery -- Current: 73
+
+Brendan Becerra:
+	Trouble:
+		archery -- Current: 54
+		drama -- Current: 76
+
+Bruce Zapata:
+	Trouble:
+		archery -- Current: 77
+		drama -- Current: 74
+
+Brandon Fontaine:
+	Trouble:
+		archery -- Current: 74
+		journalism -- Current: 76
+		calculus -- Current: 73
+		drama -- Current: 49
+
+Angie Diabate:
+	Trouble:
+		archery -- Current: 71
+		journalism -- Current: 70
+
+Robert Conejo:
+	Trouble:
+		archery -- Current: 74
+		journalism -- Current: 77
+		drama -- Current: 48
+
+Sariah Johnson:
+	Trouble:
+		calculus -- Current: 71
+		drama -- Current: 78
+
+Deon Dickerson:
+	Trouble:
+		journalism -- Current: 74
+		drama -- Current: 46
+		biochem -- Current: 8
+
+Dominic Mcclellan:
+	Trouble:
+		journalism -- Current: 40
+		calculus -- Current: 77
+		biochem -- Current: 23
+
+Ryan Meek:
+	Trouble:
+		archery -- Current: 67
+		journalism -- Current: 76
+		biochem -- Current: 17
+
+Peyton Ludy:
+	Trouble:
+		journalism -- Current: 78
+		calculus -- Current: 75
+		drama -- Current: 69
+		biochem -- Current: 52
+
+Broderick Baumgartner:
+	Trouble:
+		calculus -- Current: 61
+		drama -- Current: 75
+		biochem -- Current: 62
+
+Joseph Henderson:
+	Concerning:
+		archery -- Current: 81
+	Trouble:
+		journalism -- Current: 71
+		calculus -- Current: 65
+		drama -- Current: 70
+
+Tiffani Loomis:
+	Trouble:
+		biochem -- Current: 78
+
+Julieth Kato:
+	Trouble:
+		calculus -- Current: 21
+		drama -- Current: 72
+		biochem -- Current: 69
+
+Mark Bolden:
+	Trouble:
+		journalism -- Current: 75
+		drama -- Current: 75
+		biochem -- Current: 61
+
+Jerald Tolerico:
+	Trouble:
+		journalism -- Current: 78
+		calculus -- Current: 75
+
+Daniel Leon:
+	Trouble:
+		journalism -- Current: 36
+		drama -- Current: 40
+		biochem -- Current: 63
+
+Jeremy Boyden:
+	Trouble:
+		archery -- Current: 71
+		journalism -- Current: 7
+		calculus -- Current: 41
+
+Larry Rios:
+	Concerning:
+		archery -- Current: 80
+		journalism -- Current: 80
+	Trouble:
+		biochem -- Current: 65
+
+Christian Weeks:
+	Concerning:
+		journalism -- Current: 80
+	Trouble:
+		archery -- Current: 70
+		calculus -- Current: 72
+		drama -- Current: 60
+		biochem -- Current: 72
+
+Jacob Hunt:
+	Trouble:
+		journalism -- Current: 64
+		drama -- Current: 63
+		biochem -- Current: 64
+
+Nataly Kegley:
+	Trouble:
+		journalism -- Current: 72
+		calculus -- Current: 74
+		drama -- Current: 73
+
+Alex Klein:
+	Trouble:
+		journalism -- Current: 76
+
+Adam Hicks:
+	Trouble:
+		archery -- Current: 70
+		journalism -- Current: 76
+		calculus -- Current: 40
+		biochem -- Current: 39
+
+Matthew Watt:
+	Concerning:
+		calculus -- Current: 80
+
+Catherine Kasprzak:
+	Concerning:
+		calculus -- Current: 80
+	Trouble:
+		journalism -- Current: 73
+		drama -- Current: 30
+
+Khayla Carson:
+	Trouble:
+		calculus -- Current: 48
+		drama -- Current: 11
+
+Chris Zerkel:
+	Concerning:
+		journalism -- Current: 80
+	Trouble:
+		archery -- Current: 78
+
+Arianna Poullard:
+	Trouble:
+		archery -- Current: 59
+		calculus -- Current: 70
+
+Benjamin Rhome:
+	Trouble:
+		calculus -- Current: 35
+		drama -- Current: 57
+		biochem -- Current: 65
+
+Sophie Moimoi:
+	Trouble:
+		archery -- Current: 17
+		journalism -- Current: 2
+		drama -- Current: 71
+
+Brandi Roberts:
+	Concerning:
+		drama -- Current: 79
+	Trouble:
+		archery -- Current: 74
+		journalism -- Current: 76
+		calculus -- Current: 41
+		biochem -- Current: 63
+
+Madelyn Pinckney:
+	Concerning:
+		journalism -- Current: 81
+	Trouble:
+		archery -- Current: 23
+
+Geralyn Roberts:
+	Trouble:
+		journalism -- Current: 75
+
+Jakob Summerour:
+	Trouble:
+		archery -- Current: 62
+		drama -- Current: 66
+		biochem -- Current: 60
+
+Tiandra Matthews:
+	Concerning:
+		calculus -- Current: 81
+	Trouble:
+		drama -- Current: 54
+
+Christopher Brown:
+	Trouble:
+		drama -- Current: 41
+		biochem -- Current: 73
+
+Tamichael Stephens:
+	Trouble:
+		archery -- Current: 63
+		journalism -- Current: 75
+		calculus -- Current: 50
+		drama -- Current: 73
+		biochem -- Current: 73
+
+Zachary Bonham:
+	Concerning:
+		calculus -- Current: 81
+
+Devin Adams:
+	Trouble:
+		calculus -- Current: 76
+		drama -- Current: 62
+		biochem -- Current: 52
+
+Lawren Pattillo:
+	Concerning:
+		drama -- Current: 80
+
+Monica Mixon:
+	Concerning:
+		biochem -- Current: 81
+	Trouble:
+		journalism -- Current: 29
+		calculus -- Current: 73
+
+Anthony Yap:
+	Trouble:
+		archery -- Current: 78
+		drama -- Current: 72
+
+Joanne Reyes:
+	Concerning:
+		journalism -- Current: 80
+	Trouble:
+		archery -- Current: 74
+
+Angel Ditch:
+	Concerning:
+		journalism -- Current: 81
+		calculus -- Current: 81
+	Trouble:
+		archery -- Current: 73
+		biochem -- Current: 34
+
+Nicholas Tucker:
+	Concerning:
+		drama -- Current: 79
+	Trouble:
+		archery -- Current: 69
+		journalism -- Current: 66
+		calculus -- Current: 71
+
+Luis Tatreau:
+	Trouble:
+		journalism -- Current: 77
+		calculus -- Current: 37
+		drama -- Current: 75
+
+James Vickery:
+	Concerning:
+		journalism -- Current: 81
+	Trouble:
+		archery -- Current: 70
+		drama -- Current: 52
+
+Shane Gatlin:
+	Concerning:
+		archery -- Current: 80
+		calculus -- Current: 81
+		biochem -- Current: 81
+	Trouble:
+		drama -- Current: 76
+
+Darrell Ryken:
+	Trouble:
+		archery -- Current: 70
+		journalism -- Current: 78
+
+Henri Singh:
+	Trouble:
+		calculus -- Current: 61
+
+Tina Headley:
+	Trouble:
+		archery -- Current: 71
+		journalism -- Current: 75
+
+Austin Kaur:
+	Trouble:
+		archery -- Current: 71
+
+Derek Parks:
+	Trouble:
+		archery -- Current: 72
+		journalism -- Current: 67
+		drama -- Current: 56
+		biochem -- Current: 60
+
+Michael Gomez:
+	Trouble:
+		biochem -- Current: 62
+
+Caitlyn Holman:
+	Concerning:
+		journalism -- Current: 80
+	Trouble:
+		calculus -- Current: 73
+		biochem -- Current: 74
+
+Sadie Hines:
+	Trouble:
+		journalism -- Current: 4
+		calculus -- Current: 32
+
+Stefania Gwinnup:
+	Concerning:
+		calculus -- Current: 80
+	Trouble:
+		journalism -- Current: 78
+		biochem -- Current: 65
+
+Evelyn Smith:
+	Trouble:
+		archery -- Current: 49
+		calculus -- Current: 73
+
+Elena Nichols:
+	Concerning:
+		biochem -- Current: 79
+	Trouble:
+		drama -- Current: 71
+
+Tanner Williamson:
+	Trouble:
+		archery -- Current: 78
+		journalism -- Current: 70
+		drama -- Current: 23
+
+Michael Smith:
+	Trouble:
+		archery -- Current: 77
+		calculus -- Current: 70
+		drama -- Current: 70
+		biochem -- Current: 72
+
+Aaron Chambers:
+	Trouble:
+		journalism -- Current: 76
+		calculus -- Current: 77
+		drama -- Current: 74
+
+Eamon Gomez:
+	Trouble:
+		journalism -- Current: 76
+		drama -- Current: 17
+
+Emmanuel Crespo:
+	Concerning:
+		drama -- Current: 80
+	Trouble:
+		biochem -- Current: 74
+
+Luke Hunter:
+	Trouble:
+		calculus -- Current: 75
+		biochem -- Current: 73
+
+Jonathan Richardson:
+	Trouble:
+		archery -- Current: 76
+		journalism -- Current: 53
+		calculus -- Current: 68
+		drama -- Current: 73
+
+Grayson Savage:
+	Trouble:
+		calculus -- Current: 71
+		biochem -- Current: 71
+
+Carline Morris:
+	Concerning:
+		drama -- Current: 81
+	Trouble:
+		archery -- Current: 62
+		calculus -- Current: 50
+		biochem -- Current: 1
+
+Priscilla Neil:
+	Concerning:
+		drama -- Current: 81
+	Trouble:
+		journalism -- Current: 71
+
+Kerina Davis:
+	Concerning:
+		biochem -- Current: 79
+	Trouble:
+		calculus -- Current: 61
+		drama -- Current: 71
+
+Celena Resendiz:
+	Trouble:
+		archery -- Current: 62
+		drama -- Current: 48
+
+Zakee Kasper:
+	Trouble:
+		calculus -- Current: 60
+		drama -- Current: 27
+		biochem -- Current: 65
+
+Zita Packer:
+	Trouble:
+		calculus -- Current: 71
+		biochem -- Current: 76
+
+Caitlyn Carter:
+	Trouble:
+		calculus -- Current: 61
+		drama -- Current: 75
+
+Nicholas Lee:
+	Concerning:
+		calculus -- Current: 79
+	Trouble:
+		drama -- Current: 67
+
+Nicholas Johnston:
+	Trouble:
+		journalism -- Current: 66
+		calculus -- Current: 61
+		biochem -- Current: 62
+
+Amiya Bolognese:
+	Trouble:
+		calculus -- Current: 64
+
+Robert Snow:
+	Trouble:
+		journalism -- Current: 78
+		biochem -- Current: 77
+
+Celia Bryan:
+	Trouble:
+		archery -- Current: 78
+		calculus -- Current: 60
+		biochem -- Current: 63
+
+Nickolas Smuck:
+	Trouble:
+		journalism -- Current: 78
+		calculus -- Current: 77
+		drama -- Current: 73
+		biochem -- Current: 26
+
+Chamar Bayer:
+	Concerning:
+		calculus -- Current: 81
+		drama -- Current: 79
+		biochem -- Current: 79
+	Trouble:
+		archery -- Current: 32
+
+Summer Cotton:
+	Concerning:
+		drama -- Current: 81
+	Trouble:
+		journalism -- Current: 62
+		biochem -- Current: 66
+
+Kena Pettett:
+	Trouble:
+		archery -- Current: 58
+		calculus -- Current: 68
+		drama -- Current: 38
+		biochem -- Current: 72
+
+William Backman:
+	Trouble:
+		archery -- Current: 70
+		calculus -- Current: 54
+		biochem -- Current: 28
+
+Antonio Varela:
+	Trouble:
+		archery -- Current: 71
+		drama -- Current: 23
+		biochem -- Current: 76
+
+Gerardo Gaines:
+	Trouble:
+		calculus -- Current: 71
+		drama -- Current: 15
+		biochem -- Current: 36
+
+Joshua Justice:
+	Concerning:
+		archery -- Current: 81
+
+Jose Green:
+	Concerning:
+		drama -- Current: 80
+	Trouble:
+		archery -- Current: 76
+		journalism -- Current: 74
+		calculus -- Current: 73
+
+Spencer Mann:
+	Concerning:
+		archery -- Current: 80
+	Trouble:
+		calculus -- Current: 67
+		biochem -- Current: 66
+
+Dakota Brooks:
+	Concerning:
+		biochem -- Current: 79
+	Trouble:
+		calculus -- Current: 62
+
+Meriem Lin:
+	Concerning:
+		journalism -- Current: 81
+	Trouble:
+		archery -- Current: 62
+		drama -- Current: 56
+		biochem -- Current: 32
+
+Jacob Moua:
+	Concerning:
+		calculus -- Current: 81
+	Trouble:
+		archery -- Current: 70
+		drama -- Current: 69
+		biochem -- Current: 76
+
+Amelia White:
+	Trouble:
+		archery -- Current: 38
+		drama -- Current: 68
+		biochem -- Current: 36
+
+China Mojarro:
+	Trouble:
+		calculus -- Current: 57
+		drama -- Current: 59
+
+Sequoia Flores:
+	Trouble:
+		journalism -- Current: 71
+		biochem -- Current: 41
+
+Jashawn Weathers:
+	Trouble:
+		calculus -- Current: 65
+		biochem -- Current: 72
+
+Wesam Jarnagin:
+	Concerning:
+		archery -- Current: 81
+	Trouble:
+		calculus -- Current: 75
+		drama -- Current: 73
+
+Javon Fletcher:
+	Trouble:
+		archery -- Current: 77
+		calculus -- Current: 66
+
+Myles Nation:
+	Concerning:
+		archery -- Current: 79
+	Trouble:
+		journalism -- Current: 66
+		drama -- Current: 36
+		biochem -- Current: 61
+
+Destini Sanders:
+	Trouble:
+		archery -- Current: 46
+		calculus -- Current: 48
+		biochem -- Current: 64
+
+Westin Bowie:
+	Concerning:
+		journalism -- Current: 80
+	Trouble:
+		drama -- Current: 78
+
+Genna Folson:
+	Trouble:
+		archery -- Current: 32
+		journalism -- Current: 78
+		calculus -- Current: 78
+		drama -- Current: 72
+
+Eduardo Smith:
+	Concerning:
+		journalism -- Current: 81
+	Trouble:
+		archery -- Current: 63
+		biochem -- Current: 75
+
+Astha Nichols:
+	Trouble:
+		archery -- Current: 76
+		journalism -- Current: 73
+		calculus -- Current: 72
+		biochem -- Current: 54
+
+Thomas Madere:
+	Trouble:
+		archery -- Current: 74
+		calculus -- Current: 63
+		drama -- Current: 65
+		biochem -- Current: 72
+
+Keegan Basquez:
+	Concerning:
+		archery -- Current: 81
+	Trouble:
+		biochem -- Current: 55
+
+Tyler Schreiner:
+	Trouble:
+		drama -- Current: 71
+
+Janelle Harris:
+	Concerning:
+		biochem -- Current: 79
+	Trouble:
+		journalism -- Current: 55
+
+Alexander Evans:
+	Trouble:
+		archery -- Current: 11
+		biochem -- Current: 16
+
+Jayla Scharf:
+	Trouble:
+		calculus -- Current: 73
+		drama -- Current: 72
+		biochem -- Current: 67
+
+Nathaniel Tyler:
+	Concerning:
+		archery -- Current: 81
+	Trouble:
+		drama -- Current: 63
+		biochem -- Current: 65
+
+Hunter Farrell:
+	Trouble:
+		archery -- Current: 41
+		biochem -- Current: 61
+
+William Garcia:
+	Trouble:
+		archery -- Current: 72
+		journalism -- Current: 60
+		calculus -- Current: 72
+		drama -- Current: 64
+		biochem -- Current: 69
+
+Daniel Maurer:
+	Trouble:
+		drama -- Current: 36
+
+Jarrell Perez:
+	Trouble:
+		archery -- Current: 22
+		drama -- Current: 71
+
+Osvaldo Jorgensen:
+	Trouble:
+		journalism -- Current: 75
+		drama -- Current: 76
+
+Joscelyn Stine:
+	Concerning:
+		journalism -- Current: 80
+	Trouble:
+		archery -- Current: 37
+		calculus -- Current: 76
+		biochem -- Current: 72
+
+Brandon Mcelwain:
+	Trouble:
+		journalism -- Current: 77
+		biochem -- Current: 71
+
+Sherry Ortiz:
+	Trouble:
+		journalism -- Current: 73
+		biochem -- Current: 72
+
+Logan Sterling:
+	Trouble:
+		archery -- Current: 55
+
+Daniel Cooper:
+	Concerning:
+		drama -- Current: 81
+
+Caden Rydman:
+	Trouble:
+		archery -- Current: 68
+		journalism -- Current: 58
+
+Fernando Ziehm:
+	Trouble:
+		biochem -- Current: 72
+
+Trevor Rosado:
+	Trouble:
+		journalism -- Current: 72
+		drama -- Current: 72
+		biochem -- Current: 78
+
+Abel Escarcega:
+	Trouble:
+		drama -- Current: 19
+
+Deontae Howell:
+	Trouble:
+		journalism -- Current: 16
+		biochem -- Current: 36
+
+Antonio Deavers:
+	Concerning:
+		journalism -- Current: 80
+	Trouble:
+		drama -- Current: 72
+		biochem -- Current: 75
+
+Eve Goodrich:
+	Trouble:
+		drama -- Current: 78
+
+Julio Somerville:
+	Trouble:
+		calculus -- Current: 41
+		biochem -- Current: 61
+
+Aaron Tandon:
+	Trouble:
+		archery -- Current: 69
+
+Sean Takala:
+	Concerning:
+		archery -- Current: 79
+	Trouble:
+		biochem -- Current: 70
+
+Jared Stayton:
+	Trouble:
+		calculus -- Current: 73
+		drama -- Current: 75
+
+Jake Higgins:
+	Trouble:
+		journalism -- Current: 17
+		calculus -- Current: 76
+		drama -- Current: 72
+		biochem -- Current: 72
+
+Alexander Johnson:
+	Trouble:
+		archery -- Current: 77
+		journalism -- Current: 60
+		drama -- Current: 66
+		biochem -- Current: 57
+
+Noely Patton:
+	Concerning:
+		biochem -- Current: 79
+	Trouble:
+		archery -- Current: 57
+		journalism -- Current: 68
+		drama -- Current: 11
+
+Jesse Strauss:
+	Concerning:
+		journalism -- Current: 80
+	Trouble:
+		calculus -- Current: 70
+
+Katie Le:
+	Trouble:
+		journalism -- Current: 77
+		biochem -- Current: 44
+
+Danialle Nguyen:
+	Concerning:
+		archery -- Current: 81
+		biochem -- Current: 80
+	Trouble:
+		journalism -- Current: 72
+		calculus -- Current: 71
+
+Blake Thieme:
+	Concerning:
+		biochem -- Current: 81
+	Trouble:
+		archery -- Current: 66
+		journalism -- Current: 39
+
+Anaysha Moore:
+	Trouble:
+		archery -- Current: 77
+		journalism -- Current: 77
+		drama -- Current: 70
+
+Ryan Chatman:
+	Trouble:
+		drama -- Current: 23
+		biochem -- Current: 74
+
+Jarett Petre:
+	Concerning:
+		calculus -- Current: 81
+
+Johnathen Cho:
+	Concerning:
+		calculus -- Current: 80
+		drama -- Current: 79
+	Trouble:
+		journalism -- Current: 28
+
+Gerardo Reese:
+	Concerning:
+		archery -- Current: 81
+		drama -- Current: 80
+	Trouble:
+		journalism -- Current: 76
+		biochem -- Current: 67
+
+Jason Trueblood:
+	Trouble:
+		journalism -- Current: 73
+		drama -- Current: 11
+		biochem -- Current: 13
+
+Reanna Holloway:
+	Concerning:
+		archery -- Current: 81
+	Trouble:
+		drama -- Current: 77
+
+Michael Mcfarlane:
+	Trouble:
+		drama -- Current: 28
+		biochem -- Current: 61
+
+Jayla Quinn:
+	Concerning:
+		biochem -- Current: 80
+	Trouble:
+		calculus -- Current: 56
+
+Hayden Murray:
+	Trouble:
+		archery -- Current: 38
+		calculus -- Current: 53
+		biochem -- Current: 61
+
+Ethan Hayes:
+	Concerning:
+		journalism -- Current: 80
+	Trouble:
+		drama -- Current: 57
+
+Lawrence Kelly:
+	Trouble:
+		archery -- Current: 63
+		calculus -- Current: 64
+		drama -- Current: 69
+
+Yahaira Gambrel:
+	Concerning:
+		biochem -- Current: 80
+	Trouble:
+		archery -- Current: 20
+		drama -- Current: 29
+
+Miguel King:
+	Trouble:
+		drama -- Current: 55
+		biochem -- Current: 64
+
+Zachary Sheean:
+	Trouble:
+		biochem -- Current: 62
+
+Devin Holzhueter:
+	Trouble:
+		biochem -- Current: 76
+
+Jeremiah Monteiro:
+	Trouble:
+		archery -- Current: 4
+		journalism -- Current: 77
+		calculus -- Current: 71
+		drama -- Current: 76
+		biochem -- Current: 5
+
+Shamari Martin:
+	Trouble:
+		archery -- Current: 72
+		journalism -- Current: 64
+		calculus -- Current: 24
+		drama -- Current: 68
+
+Alexander Peele:
+	Concerning:
+		biochem -- Current: 81
+	Trouble:
+		archery -- Current: 45
+		drama -- Current: 61
+
+Ciara Miller:
+	Trouble:
+		biochem -- Current: 56
+
+Dagon Rowell:
+	Trouble:
+		journalism -- Current: 67
+		calculus -- Current: 61
+		biochem -- Current: 71
+
+Adrian Steinkuehler:
+	Trouble:
+		journalism -- Current: 47
+		calculus -- Current: 35
+		drama -- Current: 64
+		biochem -- Current: 22
+
+Gabriella Alvarado:
+	Concerning:
+		calculus -- Current: 79
+		drama -- Current: 81
+	Trouble:
+		journalism -- Current: 43
+		biochem -- Current: 66
+
+Isaiah Schuster:
+	Trouble:
+		calculus -- Current: 66
+
+Nicolas Villegas:
+	Trouble:
+		biochem -- Current: 77
+
+Joely Shaw:
+	Concerning:
+		drama -- Current: 81
+	Trouble:
+		calculus -- Current: 66
+		biochem -- Current: 20
+
+Cailyn Masso:
+	Trouble:
+		calculus -- Current: 49
+		drama -- Current: 61
+
+Ethan Goff:
+	Trouble:
+		archery -- Current: 1
+		calculus -- Current: 73
+
+Jordan Vazquez:
+	Concerning:
+		journalism -- Current: 79
+	Trouble:
+		drama -- Current: 27
+		biochem -- Current: 22
+
+Isaac Smith:
+	Concerning:
+		biochem -- Current: 81
+	Trouble:
+		journalism -- Current: 75
+		calculus -- Current: 70
+
+Daniel Turner:
+	Concerning:
+		drama -- Current: 81
+	Trouble:
+		archery -- Current: 74
+		calculus -- Current: 1
+
+Jose Flores:
+	Concerning:
+		biochem -- Current: 81
+	Trouble:
+		journalism -- Current: 65
+		calculus -- Current: 61
+
+Benjamin White:
+	Trouble:
+		archery -- Current: 50
+		journalism -- Current: 53
+		drama -- Current: 71
+
+Finn Boyer:
+	Concerning:
+		drama -- Current: 79
+	Trouble:
+		calculus -- Current: 65
+
+Johnathan Felan:
+	Trouble:
+		calculus -- Current: 69
+		biochem -- Current: 74
+
+Kendell Page:
+	Concerning:
+		drama -- Current: 80
+	Trouble:
+		archery -- Current: 65
+
+Xavier Wright:
+	Concerning:
+		drama -- Current: 81
+	Trouble:
+		biochem -- Current: 40
+
+Ethan Cairns:
+	Trouble:
+		archery -- Current: 29
+		journalism -- Current: 63
+		drama -- Current: 60
+		biochem -- Current: 67
+
+Jace Suh:
+	Concerning:
+		biochem -- Current: 80
+	Trouble:
+		calculus -- Current: 59
+
+Jayla Zuniga:
+	Concerning:
+		calculus -- Current: 79
+
+Maegan Swift:
+	Concerning:
+		archery -- Current: 80
+		drama -- Current: 79
+		biochem -- Current: 80
+	Trouble:
+		calculus -- Current: 61
+
+Aidan Saavedra:
+	Trouble:
+		journalism -- Current: 69
+		calculus -- Current: 70
+		drama -- Current: 78
+
+Gage Najera:
+	Concerning:
+		journalism -- Current: 81
+	Trouble:
+		calculus -- Current: 61
+		drama -- Current: 71
+
+Leeann Murray:
+	Trouble:
+		archery -- Current: 71
+		journalism -- Current: 54
+		biochem -- Current: 75
+
+Sean Akin:
+	Concerning:
+		drama -- Current: 79
+	Trouble:
+		archery -- Current: 73
+
+Nolan Ash:
+	Concerning:
+		journalism -- Current: 80
+	Trouble:
+		archery -- Current: 66
+		drama -- Current: 77
+
+Andres Ramsey:
+	Concerning:
+		drama -- Current: 80
+		biochem -- Current: 80
+	Trouble:
+		journalism -- Current: 61
+		calculus -- Current: 48
+
+Juan Hodson:
+	Concerning:
+		drama -- Current: 79
+	Trouble:
+		calculus -- Current: 71
+
+Keith Benton:
+	Concerning:
+		calculus -- Current: 80
+	Trouble:
+		archery -- Current: 75
+		journalism -- Current: 76
+		drama -- Current: 36
+		biochem -- Current: 72
+
+Angelin Jones:
+	Trouble:
+		archery -- Current: 74
+		journalism -- Current: 74
+		calculus -- Current: 7
+		drama -- Current: 70
+
+Shanaya Testaverde:
+	Trouble:
+		drama -- Current: 53
+		biochem -- Current: 38
+
+Luis Buckingham:
+	Trouble:
+		archery -- Current: 66
+		journalism -- Current: 35
+		calculus -- Current: 66
+		biochem -- Current: 75
+
+Nathaniel Wyatt:
+	Trouble:
+		drama -- Current: 78
+		biochem -- Current: 37
+
+Brandon Klamer:
+	Concerning:
+		calculus -- Current: 80
+	Trouble:
+		biochem -- Current: 72
+
+Alexander Kisel:
+	Trouble:
+		journalism -- Current: 71
+		calculus -- Current: 73
+
+Ellissa Stapleton:
+	Trouble:
+		archery -- Current: 68
+		biochem -- Current: 78
+
+Ambree Thrasher:
+	Trouble:
+		biochem -- Current: 75
+
+Sawyer Mace:
+	Trouble:
+		archery -- Current: 76
+
+Dorothy Griffin:
+	Concerning:
+		drama -- Current: 79
+	Trouble:
+		archery -- Current: 37
+
+Kaleb Rocha:
+	Trouble:
+		journalism -- Current: 54
+
+Travis Hinton:
+	Trouble:
+		journalism -- Current: 42
+		calculus -- Current: 73
+		drama -- Current: 73
+
+Claude Ferguson:
+	Trouble:
+		archery -- Current: 15
+		journalism -- Current: 73
+		drama -- Current: 62
+
+Adam Dawson:
+	Concerning:
+		archery -- Current: 79
+	Trouble:
+		journalism -- Current: 67
+		calculus -- Current: 13
+		drama -- Current: 74
+		biochem -- Current: 73
+
+Janiyha Davidson:
+	Trouble:
+		biochem -- Current: 5
+
+Austin Raimondi:
+	Trouble:
+		journalism -- Current: 30
+		calculus -- Current: 60
+		biochem -- Current: 58
+
+Jasmina Acosta:
+	Trouble:
+		calculus -- Current: 57
+
+Zachary Hester:
+	Trouble:
+		archery -- Current: 33
+		drama -- Current: 69
+		biochem -- Current: 58
+
+Mason Walsh:
+	Trouble:
+		archery -- Current: 50
+		journalism -- Current: 50
+
+Ronald Bak:
+	Trouble:
+		journalism -- Current: 43
+		calculus -- Current: 51
+
+Julianna Folsom:
+	Trouble:
+		archery -- Current: 18
+		journalism -- Current: 77
+		drama -- Current: 74
+		biochem -- Current: 70
+
+Alexis Kovacs:
+	Concerning:
+		biochem -- Current: 79
+
+Cecil Jones:
+	Concerning:
+		archery -- Current: 80
+
+Cassandra Sanders:
+	Trouble:
+		drama -- Current: 42
+
+Melody Hack:
+	Concerning:
+		calculus -- Current: 81
+	Trouble:
+		drama -- Current: 68
+
+Michael Crain:
+	Trouble:
+		archery -- Current: 54
+		journalism -- Current: 8
+		calculus -- Current: 58
+
+Henry Hernandez:
+	Trouble:
+		calculus -- Current: 76
+		biochem -- Current: 77
+
+Alexander Henkins:
+	Trouble:
+		archery -- Current: 42
+		journalism -- Current: 78
+
+Chass Ashcraft:
+	Trouble:
+		journalism -- Current: 41
+		calculus -- Current: 42
+
+William Geng:
+	Trouble:
+		calculus -- Current: 73
+		biochem -- Current: 47
+
+Anisa Meyer:
+	Trouble:
+		journalism -- Current: 78
+		drama -- Current: 71
+
+Zion Ventura:
+	Concerning:
+		archery -- Current: 79
+		drama -- Current: 81
+	Trouble:
+		calculus -- Current: 67
+
+Kevin Griggs:
+	Trouble:
+		archery -- Current: 15
+		biochem -- Current: 62
+
+Omar Nguyen:
+	Concerning:
+		calculus -- Current: 81
+		drama -- Current: 81
+	Trouble:
+		archery -- Current: 72
+
+Caleb Kent:
+	Concerning:
+		calculus -- Current: 79
+		biochem -- Current: 81
+	Trouble:
+		archery -- Current: 44
+		journalism -- Current: 77
+
+Gershom Poplin:
+	Concerning:
+		calculus -- Current: 81
+		drama -- Current: 80
+	Trouble:
+		archery -- Current: 45
+		journalism -- Current: 61
+
+Samuel Gutierrez:
+	Trouble:
+		archery -- Current: 77
+		drama -- Current: 78
+		biochem -- Current: 66
+
+Adena Adams:
+	Trouble:
+		biochem -- Current: 62
+
+Peter Lyda:
+	Trouble:
+		archery -- Current: 72
+		calculus -- Current: 54
+		drama -- Current: 62
+		biochem -- Current: 65
+
+Ajani Morse:
+	Trouble:
+		archery -- Current: 71
+		journalism -- Current: 61
+		calculus -- Current: 53
+		drama -- Current: 18
+
+Savanna Hernandez:
+	Trouble:
+		journalism -- Current: 58
+		drama -- Current: 76
+		biochem -- Current: 35
+
+Erick Rojas:
+	Concerning:
+		drama -- Current: 81
+		biochem -- Current: 80
+	Trouble:
+		archery -- Current: 22
+		journalism -- Current: 52
+
+Edith Byers:
+	Concerning:
+		biochem -- Current: 81
+	Trouble:
+		journalism -- Current: 13
+		drama -- Current: 76
+
+Jakob Anderson:
+	Trouble:
+		biochem -- Current: 58
+
+Nathanial York:
+	Concerning:
+		archery -- Current: 79
+		biochem -- Current: 81
+	Trouble:
+		journalism -- Current: 49
+
+Aleksander Hadley:
+	Concerning:
+		biochem -- Current: 79
+	Trouble:
+		calculus -- Current: 72
+
+Chandler Bowker:
+	Trouble:
+		archery -- Current: 30
+		drama -- Current: 10
+
+Angel Stpierre:
+	Concerning:
+		journalism -- Current: 81
+	Trouble:
+		calculus -- Current: 55
+
+Sable Womble:
+	Trouble:
+		journalism -- Current: 52
+
+Jonathan Branham:
+	Concerning:
+		calculus -- Current: 79
+
+Kunal Kershner:
+	Trouble:
+		journalism -- Current: 72
+		biochem -- Current: 62
+
+Shayla Ziegler:
+	Trouble:
+		journalism -- Current: 73
+		drama -- Current: 40
+
+Shawn Stevens:
+	Trouble:
+		calculus -- Current: 63
+		drama -- Current: 58
+		biochem -- Current: 74
+
+Kiyara Vazquez:
+	Trouble:
+		drama -- Current: 73
+
+Darius Erickson:
+	Trouble:
+		calculus -- Current: 73
+
+Seth Burney:
+	Trouble:
+		archery -- Current: 31
+		calculus -- Current: 51
+		drama -- Current: 55
+
+Santiago Garretson:
+	Concerning:
+		journalism -- Current: 81
+	Trouble:
+		archery -- Current: 54
+		calculus -- Current: 74
+
+Jake Nichols:
+	Concerning:
+		journalism -- Current: 81
+	Trouble:
+		archery -- Current: 55
+		drama -- Current: 40
+		biochem -- Current: 2
+
+Colleen Villalona:
+	Concerning:
+		archery -- Current: 79
+		calculus -- Current: 80
+	Trouble:
+		journalism -- Current: 66
+		biochem -- Current: 45
+
+Daniel Hendricks:
+	Trouble:
+		journalism -- Current: 73
+		calculus -- Current: 76
+		biochem -- Current: 34
+
+Spencer Hicks:
+	Trouble:
+		journalism -- Current: 62
+		drama -- Current: 53
+
+Andres Stacy:
+	Trouble:
+		archery -- Current: 77
+		journalism -- Current: 60
+		calculus -- Current: 76
+
+Jacob Cesario:
+	Concerning:
+		drama -- Current: 80
+	Trouble:
+		archery -- Current: 71
+		calculus -- Current: 66
+
+John Fisher:
+	Trouble:
+		archery -- Current: 63
+		drama -- Current: 74
+		biochem -- Current: 74
+
+Soha Friedman:
+	Trouble:
+		archery -- Current: 74
+		calculus -- Current: 52
+		biochem -- Current: 74
+
+Benjamin Wiley:
+	Trouble:
+		drama -- Current: 45
+
+Paul Tyler:
+	Trouble:
+		archery -- Current: 71
+		journalism -- Current: 66
+		biochem -- Current: 72
+
+Dennis Perkis:
+	Trouble:
+		archery -- Current: 72
+		calculus -- Current: 77
+		drama -- Current: 43
+		biochem -- Current: 15
+
+Abram Johnson:
+	Concerning:
+		archery -- Current: 79
+	Trouble:
+		journalism -- Current: 65
+		calculus -- Current: 63
+		drama -- Current: 71
+
+Sandra Rivera:
+	Trouble:
+		biochem -- Current: 20
+
+Zachary Chavarria:
+	Concerning:
+		journalism -- Current: 80
+	Trouble:
+		archery -- Current: 65
+		calculus -- Current: 74
+		biochem -- Current: 69
+
+Jonathan Anderson:
+	Concerning:
+		drama -- Current: 81
+	Trouble:
+		biochem -- Current: 68
+
+Deborah Clark:
+	Trouble:
+		archery -- Current: 77
+		journalism -- Current: 48
+
+Amir Schull:
+	Concerning:
+		archery -- Current: 81
+		calculus -- Current: 79
+	Trouble:
+		journalism -- Current: 56
+		drama -- Current: 74
+		biochem -- Current: 62
+
+Joseph Chausse:
+	Concerning:
+		calculus -- Current: 80
+	Trouble:
+		journalism -- Current: 75
+		drama -- Current: 70
+		biochem -- Current: 74
+
+Alejandro Agnew:
+	Concerning:
+		archery -- Current: 80
+	Trouble:
+		journalism -- Current: 61
+		calculus -- Current: 49
+
+Joshua Chen:
+	Trouble:
+		journalism -- Current: 43
+		biochem -- Current: 65
+
+Emilie Davis:
+	Trouble:
+		archery -- Current: 76
+		drama -- Current: 73
+
+Katrina Bueno:
+	Trouble:
+		archery -- Current: 73
+		journalism -- Current: 65
+		calculus -- Current: 77
+
+Tatianna Williams:
+	Concerning:
+		biochem -- Current: 81
+	Trouble:
+		archery -- Current: 11
+		drama -- Current: 57
+
+Kyle Milliken:
+	Trouble:
+		calculus -- Current: 62
+		drama -- Current: 18
+
+William Sullivan:
+	Trouble:
+		drama -- Current: 77
+
+Spencer Krebs:
+	Trouble:
+		archery -- Current: 75
+		journalism -- Current: 63
+		calculus -- Current: 72
+		drama -- Current: 63
+		biochem -- Current: 18
+
+Eric Downs:
+	Trouble:
+		journalism -- Current: 78
+		drama -- Current: 68
+		biochem -- Current: 56
+
+Sylvia Bolack:
+	Trouble:
+		archery -- Current: 57
+		drama -- Current: 47
+		biochem -- Current: 50
+
+Brailee Polk:
+	Concerning:
+		archery -- Current: 79
+	Trouble:
+		journalism -- Current: 42
+		calculus -- Current: 71
+		biochem -- Current: 60
+
+Alexander Howie:
+	Trouble:
+		archery -- Current: 70
+		journalism -- Current: 67
+		calculus -- Current: 49
+		biochem -- Current: 75
+
+Barry Wells:
+	Trouble:
+		calculus -- Current: 57
+
+Marina Oconnell:
+	Trouble:
+		archery -- Current: 32
+		journalism -- Current: 45
+		calculus -- Current: 67
+		biochem -- Current: 51
+
+Arthur Slaby:
+	Trouble:
+		archery -- Current: 65
+		journalism -- Current: 75
+		calculus -- Current: 74
+		biochem -- Current: 71
+
+Aaron Ho:
+	Concerning:
+		biochem -- Current: 81
+	Trouble:
+		journalism -- Current: 52
+		drama -- Current: 11
+
+Joshua Freeman:
+	Concerning:
+		biochem -- Current: 79
+	Trouble:
+		archery -- Current: 48
+		journalism -- Current: 77
+		calculus -- Current: 34
+
+Zachary Arbour:
+	Trouble:
+		archery -- Current: 77
+
+Deasia Riles:
+	Concerning:
+		calculus -- Current: 80
+	Trouble:
+		archery -- Current: 6
+		drama -- Current: 66
+		biochem -- Current: 76
+
+Justin Gooch:
+	Trouble:
+		archery -- Current: 55
+		biochem -- Current: 69
+
+Noah Shaut:
+	Concerning:
+		biochem -- Current: 79
+	Trouble:
+		archery -- Current: 71
+		calculus -- Current: 55
+
+Rodrigo Smith:
+	Trouble:
+		archery -- Current: 44
+		journalism -- Current: 47
+
+Kyla Sardinha:
+	Concerning:
+		drama -- Current: 80
+	Trouble:
+		journalism -- Current: 73
+
+Matthew Rainey:
+	Concerning:
+		calculus -- Current: 80
+	Trouble:
+		drama -- Current: 54
+
+Maddi Ward:
+	Concerning:
+		journalism -- Current: 80
+	Trouble:
+		calculus -- Current: 65
+		drama -- Current: 64
+
+James Reed:
+	Concerning:
+		journalism -- Current: 81
+	Trouble:
+		drama -- Current: 62
+		biochem -- Current: 36
+
+Jartavis Basemore:
+	Concerning:
+		journalism -- Current: 80
+		biochem -- Current: 81
+	Trouble:
+		archery -- Current: 77
+		calculus -- Current: 71
+		drama -- Current: 16
+
+Cali Wian:
+	Concerning:
+		journalism -- Current: 80
+	Trouble:
+		archery -- Current: 60
+		biochem -- Current: 72
+
+Colton Lee:
+	Trouble:
+		archery -- Current: 67
+		journalism -- Current: 31
+		calculus -- Current: 60
+		drama -- Current: 42
+
+Hayli Torres:
+	Trouble:
+		archery -- Current: 78
+		journalism -- Current: 69
+
+Johnathan Martin:
+	Trouble:
+		journalism -- Current: 61
+		calculus -- Current: 22
+		biochem -- Current: 62
+
+Lizette Cunningham:
+	Trouble:
+		calculus -- Current: 60
+
+Danthony Pridemore:
+	Trouble:
+		archery -- Current: 62
+		journalism -- Current: 51
+		biochem -- Current: 70
+
+Mohsin Kobel:
+	Concerning:
+		archery -- Current: 81
+	Trouble:
+		calculus -- Current: 56
+		biochem -- Current: 69
+
+Curtis Kirkhart:
+	Trouble:
+		archery -- Current: 76
+		journalism -- Current: 22
+		calculus -- Current: 73
+		drama -- Current: 76
+		biochem -- Current: 73
+
+Antony Groom:
+	Trouble:
+		calculus -- Current: 72
+		biochem -- Current: 75
+
+James Morgan:
+	Concerning:
+		archery -- Current: 80
+	Trouble:
+		journalism -- Current: 61
+		drama -- Current: 70
+		biochem -- Current: 39
+
+Kaila Martinez:
+	Trouble:
+		archery -- Current: 74
+
+Yuepheng Kellenberger:
+	Concerning:
+		drama -- Current: 79
+	Trouble:
+		archery -- Current: 13
+		journalism -- Current: 67
+		calculus -- Current: 72
+		biochem -- Current: 73
+
+Justin Hatch:
+	Concerning:
+		archery -- Current: 79
+	Trouble:
+		calculus -- Current: 65
+		biochem -- Current: 74
+
+Jackson Christenson:
+	Concerning:
+		calculus -- Current: 81
+	Trouble:
+		archery -- Current: 68
+		journalism -- Current: 11
+
+Uriel Caputo:
+	Trouble:
+		calculus -- Current: 70
+
+Thomas Falk:
+	Concerning:
+		biochem -- Current: 80
+	Trouble:
+		archery -- Current: 10
+
+Jordan Smith:
+	Trouble:
+		drama -- Current: 73
+		biochem -- Current: 46
+
+Jordan Banning:
+	Trouble:
+		drama -- Current: 65
+		biochem -- Current: 71
+
+William Howell:
+	Trouble:
+		archery -- Current: 55
+		calculus -- Current: 72
+		drama -- Current: 74
+
+Tiara Garris:
+	Trouble:
+		journalism -- Current: 66
+		calculus -- Current: 42
+		drama -- Current: 76
+
+Eugenia Quasius:
+	Trouble:
+		archery -- Current: 71
+		journalism -- Current: 71
+		calculus -- Current: 73
+		biochem -- Current: 75
+
+Joshua Hosaflook:
+	Trouble:
+		archery -- Current: 66
+		drama -- Current: 58
+
+Aubrie Wilson:
+	Concerning:
+		calculus -- Current: 81
+	Trouble:
+		archery -- Current: 50
+		journalism -- Current: 66
+		drama -- Current: 23
+		biochem -- Current: 69
+
+Mark Sillings:
+	Trouble:
+		archery -- Current: 32
+		journalism -- Current: 75
+		biochem -- Current: 74
+
+Zanaiya Schrock:
+	Trouble:
+		journalism -- Current: 71
+		drama -- Current: 20
+		biochem -- Current: 35
+
+Anthony Medlock:
+	Trouble:
+		journalism -- Current: 66
+		calculus -- Current: 62
+		drama -- Current: 65
+		biochem -- Current: 57
+
+Jackson Lester:
+	Trouble:
+		archery -- Current: 56
+		calculus -- Current: 68
+		drama -- Current: 68
+
+Collin Angeles:
+	Trouble:
+		drama -- Current: 58
+		biochem -- Current: 29
+
+Antonio Landry:
+	Trouble:
+		calculus -- Current: 53
+
+Venessa Lawrence:
+	Trouble:
+		archery -- Current: 54
+		journalism -- Current: 22
+		calculus -- Current: 67
+
+Alissa Bean:
+	Trouble:
+		calculus -- Current: 74
+		drama -- Current: 74
+
+Robert Nance:
+	Trouble:
+		calculus -- Current: 72
+		biochem -- Current: 63
+
+Chad Dawson:
+	Trouble:
+		archery -- Current: 78
+		calculus -- Current: 23
+
+Doyle Knouff:
+	Concerning:
+		archery -- Current: 80
+	Trouble:
+		journalism -- Current: 60
+		calculus -- Current: 78
+
+Allyson Franke:
+	Trouble:
+		archery -- Current: 58
+		journalism -- Current: 44
+		calculus -- Current: 71
+		drama -- Current: 46
+
+Fatima Wong:
+	Concerning:
+		archery -- Current: 80
+	Trouble:
+		journalism -- Current: 25
+		drama -- Current: 77
+		biochem -- Current: 70
+
+Joseph Vaneman:
+	Trouble:
+		archery -- Current: 62
+		journalism -- Current: 70
+		drama -- Current: 62
+		biochem -- Current: 13
+
+Jesseca Wu:
+	Trouble:
+		calculus -- Current: 74
+		drama -- Current: 72
+
+Benjamin Blunt:
+	Concerning:
+		biochem -- Current: 81
+	Trouble:
+		archery -- Current: 20
+		calculus -- Current: 78
+
+Teah Hintermeister:
+	Trouble:
+		archery -- Current: 75
+		journalism -- Current: 76
+		calculus -- Current: 73
+
+Justin Rawlings:
+	Trouble:
+		archery -- Current: 64
+		journalism -- Current: 40
+		calculus -- Current: 60
+
+Daniel Webb:
+	Concerning:
+		journalism -- Current: 80
+	Trouble:
+		drama -- Current: 70
+
+Benjamin Sumrall:
+	Concerning:
+		drama -- Current: 80
+	Trouble:
+		archery -- Current: 62
+		calculus -- Current: 56
+
+Axel Williams:
+	Concerning:
+		drama -- Current: 80
+
+Levi Mitchell:
+	Trouble:
+		journalism -- Current: 37
+		drama -- Current: 42
+		biochem -- Current: 69
+
+William Turman:
+	Concerning:
+		drama -- Current: 81
+	Trouble:
+		archery -- Current: 76
+		journalism -- Current: 77
+
+Mae Dinkins:
+	Concerning:
+		archery -- Current: 80
+		drama -- Current: 80
+	Trouble:
+		journalism -- Current: 74
+		calculus -- Current: 3
+		biochem -- Current: 12
+
+Philip Reiter:
+	Trouble:
+		archery -- Current: 45
+		journalism -- Current: 34
+		calculus -- Current: 51
+		biochem -- Current: 62
+
+Philip Young:
+	Trouble:
+		archery -- Current: 50
+		journalism -- Current: 76
+
+Samuel Milton:
+	Concerning:
+		drama -- Current: 79
+	Trouble:
+		archery -- Current: 40
+		journalism -- Current: 60
+
+Monica Larsen:
+	Concerning:
+		journalism -- Current: 80
+	Trouble:
+		archery -- Current: 78
+		calculus -- Current: 60
+		drama -- Current: 43
+		biochem -- Current: 58
+
+Ryan Brown:
+	Trouble:
+		archery -- Current: 54
+
+Grayson Green:
+	Trouble:
+		archery -- Current: 67
+		drama -- Current: 54
+		biochem -- Current: 70
+
+Steve Stoker:
+	Trouble:
+		journalism -- Current: 74
+
+Tyler Welsh:
+	Trouble:
+		calculus -- Current: 76
+		biochem -- Current: 66
+
+Aldo Mcmahon:
+	Trouble:
+		archery -- Current: 60
+		calculus -- Current: 27
+
+Kiersten Eubanks:
+	Trouble:
+		archery -- Current: 57
+		journalism -- Current: 63
+		calculus -- Current: 23
+
+Jacinda Vanostran:
+	Concerning:
+		biochem -- Current: 81
+	Trouble:
+		journalism -- Current: 38
+		calculus -- Current: 61
+		drama -- Current: 77
+
+Aubrie Schwartz:
+	Trouble:
+		archery -- Current: 72
+		journalism -- Current: 67
+		calculus -- Current: 75
+		drama -- Current: 61
+		biochem -- Current: 70
+
+Zachariah Wilkerson:
+	Concerning:
+		journalism -- Current: 79
+	Trouble:
+		archery -- Current: 56
+
+Zeshan Haggard:
+	Trouble:
+		archery -- Current: 8
+		journalism -- Current: 75
+		drama -- Current: 54
+		biochem -- Current: 31
+
+Titus Miller:
+	Trouble:
+		journalism -- Current: 70
+		calculus -- Current: 70
+		drama -- Current: 50
+
+Ximena Ritchie:
+	Concerning:
+		biochem -- Current: 80
+	Trouble:
+		archery -- Current: 72
+		journalism -- Current: 54
+
+Roland Dahm:
+	Concerning:
+		journalism -- Current: 80
+
+Alexander Garcia:
+	Concerning:
+		biochem -- Current: 81
+	Trouble:
+		journalism -- Current: 70
+		drama -- Current: 69
+
+Lane Harris:
+	Concerning:
+		calculus -- Current: 81
+	Trouble:
+		archery -- Current: 62
+		journalism -- Current: 77
+		drama -- Current: 69
+		biochem -- Current: 75
+
+Jonah Cramer:
+	Trouble:
+		journalism -- Current: 72
+		calculus -- Current: 69
+		drama -- Current: 71
+		biochem -- Current: 75
+
+Ryder Hinton:
+	Trouble:
+		journalism -- Current: 75
+		biochem -- Current: 73
+
+Kira Rice:
+	Trouble:
+		archery -- Current: 54
+		drama -- Current: 76
+		biochem -- Current: 63
+
+Lilijana Michetti:
+	Trouble:
+		calculus -- Current: 58
+		drama -- Current: 73
+
+Claudia Hilton:
+	Concerning:
+		biochem -- Current: 81
+	Trouble:
+		archery -- Current: 68
+		journalism -- Current: 62
+		calculus -- Current: 7
+		drama -- Current: 31
+
+Patrick Beck:
+	Trouble:
+		journalism -- Current: 60
+		drama -- Current: 43
+
+Ross Simmons:
+	Concerning:
+		archery -- Current: 79
+		calculus -- Current: 79
+
+Edwin Everett:
+	Trouble:
+		drama -- Current: 77
+
+Anthony Spoto:
+	Trouble:
+		archery -- Current: 62
+
+Albert Kelman:
+	Trouble:
+		archery -- Current: 73
+		journalism -- Current: 73
+		calculus -- Current: 70
+		drama -- Current: 75
+		biochem -- Current: 19
+
+Mandy Geiken:
+	Concerning:
+		archery -- Current: 81
+	Trouble:
+		journalism -- Current: 74
+		calculus -- Current: 78
+
